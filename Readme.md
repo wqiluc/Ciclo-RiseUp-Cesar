@@ -14,6 +14,7 @@ RocketSeat + Porto Digital - Formação Full Web</span>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black" height="22" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="22" />
 </p>
 
 <h2 align="center">👨🏻‍💻 Autor deste Repositório: </h2>
