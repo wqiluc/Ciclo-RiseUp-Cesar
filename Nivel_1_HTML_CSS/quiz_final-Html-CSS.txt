@@ -1,0 +1,134 @@
+12 de 12✅
+
+Questão 1
+CORRETA
+
+O que significa a sigla HTML?
+
+Sua resposta
+Hyper Text Markup Language
+
+Explicação:
+Parabéns! Você acertou. HTML significa "Hyper Text Markup Language", que em português pode ser traduzido como Linguagem de Marcação de Hipertexto. É a linguagem padrão utilizada para criar e estruturar páginas na web, usando tags para definir os elementos como títulos, parágrafos, links, imagens, entre outros.
+
+Questão 2
+CORRETA
+
+O que compõe a anatomia de uma tag HTML?
+
+Sua resposta
+Nome da tag e atributos
+
+Explicação:
+Parabéns, você acertou! A anatomia fundamental de uma tag HTML é composta pelo seu nome, que define a função do elemento (por exemplo, <p> para parágrafo), e pelos atributos, que fornecem informações adicionais ou modificam o comportamento da tag (por exemplo, id="meuParagrafo" ou class="destaque"). Juntos, eles permitem construir elementos ricos e funcionais na página web. O conteúdo real do elemento (o texto dentro do parágrafo, por exemplo) é o que a tag envolve, mas a estrutura da tag em si é definida pelo seu nome e seus atributos.
+
+Questão 3
+CORRETA
+
+O que significa o aninhamento de tags em HTML?
+
+Sua resposta
+Colocar uma tag dentro de outra
+
+Explicação:
+Parabéns, você compreendeu corretamente! O aninhamento de tags em HTML refere-se à prática de colocar uma tag HTML dentro de outra. Isso é fundamental para estruturar o conteúdo de uma página web, criando uma hierarquia entre os elementos. Por exemplo, um parágrafo (<p>) pode conter um texto em negrito (<strong>), onde o <strong> está "aninhado" dentro do <p>.
+
+
+Questão 4
+CORRETA
+
+O que são atributos globais em HTML?
+
+Sua resposta
+Atributos que podem ser usados em qualquer elemento HTML
+
+Explicação:
+Parabéns pela sua resposta! Atributos globais são aqueles que podem ser aplicados a todos os elementos HTML. Eles fornecem funcionalidades comuns, como identificação (id), classes de estilo (class), ou títulos (title), independentemente do tipo de elemento. Isso os torna extremamente versáteis e fundamentais na estruturação e estilização de páginas web.
+
+Questão 5
+CORRETA
+
+Como você cria um parágrafo em HTML?
+
+Sua resposta
+<p>
+
+Explicação:
+Parabéns! Você acertou. A tag <p> é a maneira correta e padrão de definir um parágrafo em HTML. Todo o texto contido entre <p> e </p> será formatado como um bloco de parágrafo pelo navegador.
+
+Questão 6
+CORRETA
+
+Qual é a tag HTML para inserir uma imagem?
+
+Sua resposta
+<img src="imagem.jpg" alt="Descrição da Imagem">
+
+Explicação:
+Parabéns! Você acertou. A tag <img> é a tag HTML padrão e correta para incorporar uma imagem em um documento. O atributo src (source) especifica o caminho para o arquivo da imagem, e o atributo alt (alternative text) fornece uma descrição textual para a imagem, que é importante para acessibilidade e quando a imagem não pode ser exibida.
+
+Questão 7
+CORRETA
+
+Para adicionar uma informação no rodapé da página qual tag é a mais apropriada?
+
+Sua resposta
+<footer> </footer>
+
+Explicação:
+Parabéns! A tag <footer> é semanticamente projetada para representar o rodapé de uma seção ou de um documento. Ela geralmente contém informações sobre o autor, links para documentos relacionados, dados de copyright ou avisos legais, sendo a escolha mais apropriada para o rodapé de uma página.
+
+Questão 8
+CORRETA
+
+Qual a diferença entre um seletor e uma propriedade no CSS?
+
+Sua resposta
+Um seletor é usado para selecionar elementos HTML, enquanto uma propriedade é usada para definir o estilo desses elementos.
+
+Explicação:
+Parabéns! Você compreendeu corretamente a distinção. No CSS, um seletor (como h1, .classe, #id) é o mecanismo que aponta para qual(is) elemento(s) HTML a regra de estilo deve ser aplicada. Já uma propriedade (como color, font-size, background-color) é um atributo de estilo que será aplicado aos elementos selecionados, definindo sua aparência ou comportamento.
+
+Questão 9
+CORRETA
+
+O que é a especificidade de um seletor?
+
+Sua resposta
+A importância de um seletor na cascata de estilos.
+
+Explicação:
+Parabéns, você acertou! A especificidade em CSS é um sistema de "peso" que determina quais regras de estilo são aplicadas a um elemento, especialmente quando há regras conflitantes. Quanto mais específico o seletor, maior a sua importância na cascata de estilos.
+
+Questão 10
+CORRETA
+
+O que é a propriedade margin?
+
+Sua resposta
+Uma propriedade que define a distância entre o elemento HTML e outros elementos HTML.
+
+Explicação:
+Parabéns, você acertou! A propriedade margin é fundamental no CSS para controlar o espaçamento externo de um elemento. Ela cria um espaço invisível ao redor do elemento, empurrando outros elementos para longe dele e permitindo um controle preciso do layout e do fluxo da página. É importante distinguí-la do padding, que se refere ao espaçamento interno.
+
+Questão 11
+CORRETA
+
+Como definir a cor de fundo de um elemento HTML?
+
+Sua resposta
+Usando a propriedade background-color.
+
+Explicação:
+Parabéns! Você acertou. A propriedade background-color é a forma correta e mais comum de definir a cor de fundo de um elemento HTML usando CSS. É possível especificar a cor utilizando nomes de cores, valores hexadecimais, RGB, RGBA, HSL ou HSLA.
+
+Questão 12
+CORRETA
+
+O que é a propriedade background-position?
+
+Sua resposta
+Uma propriedade que define a posição da imagem de fundo em um elemento HTML.
+
+Explicação:
+Parabéns! Sua resposta está correta. A propriedade CSS background-position é de fato utilizada para especificar a posição inicial de uma imagem de fundo dentro de um elemento HTML. Você pode controlar onde a imagem começa a ser exibida, seja em relação ao canto superior esquerdo do elemento ou utilizando palavras-chave como center, top, bottom, left, right, ou valores percentuais/pixel.
