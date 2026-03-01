@@ -1,0 +1,32 @@
+4 de 4✅
+
+1º O que significa a sigla HTML?
+Sua resposta:
+
+Hyper Text Markup Language
+
+Explicação
+Parabéns! Você acertou. A sigla HTML realmente significa "HyperText Markup Language". Este é o padrão fundamental para criar e estruturar conteúdo na web, utilizando uma série de elementos para definir a estrutura das páginas.
+
+2º Como você adiciona um comentário em HTML?
+Sua resposta:
+ <!-- Este é um comentário -->
+
+Explicação
+Parabéns! Você identificou corretamente a sintaxe para comentários em HTML. Comentários são iniciados com <!-- e terminados com -- >. Eles são usados para adicionar notas no código que não são exibidas no navegador. É uma ótima prática para documentar seu código e torná-lo mais compreensível.
+
+3º O que é o fluxo HTML?
+
+Sua resposta
+A ordem em que as tags são processadas e exibidas
+
+Explicação:
+Parabéns! Você acertou. O fluxo HTML, também conhecido como fluxo normal de documento, descreve a maneira como os elementos HTML são dispostos no navegador. Por padrão, elementos de bloco (<div>, <p>, <h1>, etc.) ocupam toda a largura disponível e são empilhados verticalmente, um abaixo do outro. Já os elementos inline (<span>, <a>, <strong>, etc.) ocupam apenas o espaço necessário e são dispostos horizontalmente na mesma linha, até que não haja mais espaço, quando então quebram para a próxima linha. É a ordem natural de processamento e exibição dos elementos na página conforme eles aparecem no código.
+
+4º Quais são os caracteres reservados em HTML?
+
+Sua resposta
+& e <
+
+Explicação:
+Parabéns! Você acertou. Em HTML, os caracteres & (e comercial) e < (sinal de menor que) são considerados caracteres reservados. Eles têm significados especiais na sintaxe HTML, sendo usados para entidades de caracteres e para iniciar tags, respectivamente. Para exibir esses caracteres literalmente em uma página web, é necessário usar suas entidades HTML correspondentes (por exemplo, &amp; para & e &lt; para <).

@@ -1,0 +1,17 @@
+/* Mais específico:
+
+  -style (dentro do html);
+  - !important (só usar em casos extremos)
+*/
+
+
+body{
+    background-color: rgb(3, 2, 2);
+}
+
+#title{
+    font-size: 50px;
+    color: yellow;
+    align-items: center;
+    font-size: large;
+}

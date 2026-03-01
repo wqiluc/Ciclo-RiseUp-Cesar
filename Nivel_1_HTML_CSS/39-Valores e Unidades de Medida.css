@@ -1,0 +1,18 @@
+/* Valores e unidades de medidas
+
+CADA propriedade possui valores:
+
+
+https://developer.mozilla.org/en-US/
+'propriety: value'
+<data.type>
+
+Estudo constante a fim de entender as propriedades e seus valores!! 
+*/
+
+h1{
+    color: blue; /*color*/
+    font-size: 32px; /*length*/
+    letter-spacing: 2; /*number*/
+    text-transform: uppercase; /*key-word*/
+}

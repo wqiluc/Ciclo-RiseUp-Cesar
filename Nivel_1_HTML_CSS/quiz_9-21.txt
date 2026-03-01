@@ -1,0 +1,41 @@
+5 de 5✅
+
+1º O que é semântica em HTML?
+
+Sua resposta
+A prática de atribuir significado estruturado aos elementos HTML para melhorar a compreensão do conteúdo pelos navegadores e motores de busca
+
+Explicação:
+Parabéns! Esta é a definição correta de semântica em HTML. Ela envolve o uso de elementos HTML de forma que seu propósito e significado sejam claros, tanto para o navegador quanto para os motores de busca e tecnologias assistivas. Isso melhora a acessibilidade, o SEO e a manutenção do código, pois a estrutura da página reflete seu conteúdo.
+
+2º Qual elemento HTML é usado para criar um título principal em uma página?
+
+Sua resposta
+<h1>
+
+Explicação:
+Parabéns! Você acertou. O elemento `<h1>` é o mais apropriado para definir o título principal de uma página ou de uma seção de conteúdo, indicando a hierarquia mais alta de importância textual.
+
+3º Como você cria uma lista não ordenada em HTML?
+
+Sua resposta
+<ul>
+
+Explicação:
+Parabéns! Você acertou. A tag <ul> é utilizada para criar listas não ordenadas em HTML, onde os itens são marcados com marcadores (geralmente bolinhas), sem uma sequência numérica ou alfabética definida.
+
+4º Como você cria um hiperlink em HTML?
+
+Sua resposta
+<a href="url">Link Text</a>
+
+Explicação:
+Parabéns! Sua resposta está correta. Em HTML, o elemento <a> (âncora) é usado para criar um hiperlink. O atributo href dentro da tag <a> especifica o URL da página para a qual o link aponta. O texto entre as tags de abertura e fechamento é o texto que será exibido como o link.
+
+5º Qual é a tag HTML para inserir uma imagem?
+
+Sua resposta
+<img src="imagem.jpg" alt="Descrição da Imagem">
+
+Explicação:
+Parabéns! Você acertou. A tag <img> é a tag HTML correta e mais fundamental para incorporar imagens em uma página web. Os atributos src (que indica a fonte da imagem) e alt (que fornece um texto alternativo para acessibilidade e em caso de falha no carregamento) são essenciais para seu funcionamento adequado.

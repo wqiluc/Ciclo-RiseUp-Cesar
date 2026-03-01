@@ -1,0 +1,99 @@
+/* =======================================================
+   COMBINATORS (COMBINADORES) NO CSS
+   São usados para definir a relação entre elementos.
+======================================================= */
+
+/* -------------------------------------------------------
+   1) DESCENDENT (Descendente)
+   Espaço entre seletores.
+   Seleciona TODOS os elementos que estão dentro de outro,
+   independente do nível (filho, neto, bisneto...).
+
+   Exemplo de seletor:
+   div p
+
+   Explicação:
+   Todo <p> que estiver dentro de uma <div>
+   será selecionado, não importa a profundidade.
+
+   Exemplo de estrutura HTML:
+
+   <div>
+     <p>Selecionado</p>
+     <section>
+       <p>Também será selecionado</p>
+     </section>
+   </div>
+------------------------------------------------------- */
+
+
+/* -------------------------------------------------------
+   2) LIST (Lista)
+   Vírgula entre seletores.
+   Permite aplicar o mesmo estilo para múltiplos elementos.
+
+   Exemplo de seletor:
+   h1, h2, p, span
+
+   Explicação:
+   O estilo será aplicado para:
+   - h1
+   - h2
+   - p
+   - span
+
+   É como dizer:
+   "h1 OU h2 OU p OU span"
+------------------------------------------------------- */
+
+
+/* -------------------------------------------------------
+   3) NEXT SIBLING (Irmão adjacente)
+   Símbolo: +
+   Seleciona o elemento que vem IMEDIATAMENTE depois
+   de outro no mesmo nível hierárquico.
+
+   Exemplo de seletor:
+   h1 + p
+
+   Explicação:
+   Apenas o PRIMEIRO <p> depois do <h1> será selecionado.
+
+   Exemplo de estrutura HTML:
+
+   <h1>Título</h1>
+   <p>Selecionado</p>
+   <p>Não será selecionado</p>
+------------------------------------------------------- */
+
+
+/* -------------------------------------------------------
+   4) CHILD (Filho direto)
+   Símbolo: >
+   Seleciona apenas filhos DIRETOS.
+
+   Exemplo de seletor:
+   div > p
+
+   Explicação:
+   Só pega o <p> que é filho direto da <div>.
+   Não seleciona netos.
+
+   Exemplo de estrutura HTML:
+
+   <div>
+     <p>Selecionado</p>
+     <section>
+       <p>Não será selecionado</p>
+     </section>
+   </div>
+------------------------------------------------------- */
+
+article p{ /*article = pai, p = filho*/
+    color: red;
+}
+
+span, mark{
+    color: red;
+}
+

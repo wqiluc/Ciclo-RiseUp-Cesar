@@ -1,0 +1,17 @@
+2 de 2✅
+
+1º O que é um caminho absoluto?
+
+Sua resposta
+Um caminho que é especificado a partir da raiz do sistema de arquivos.
+
+Explicação:
+Muito bem! Um caminho absoluto é aquele que fornece a localização completa de um arquivo ou diretório, começando sempre do diretório raiz (o ponto de partida mais elevado) de um sistema de arquivos. Por exemplo, em sistemas tipo Unix, ele começa com /, e em sistemas Windows, geralmente começa com a letra da unidade, como C:\.
+
+2º O que é um caminho relativo?
+
+Sua resposta
+Um caminho que é especificado a partir do diretório atual.
+
+Explicação:
+Parabéns! Você acertou. Um caminho relativo é de fato aquele que define a localização de um arquivo ou diretório em relação ao diretório de trabalho atual (o diretório onde o comando está sendo executado ou o programa está sendo executado). Isso significa que o mesmo caminho relativo pode apontar para diferentes locais dependendo de onde você o utiliza.

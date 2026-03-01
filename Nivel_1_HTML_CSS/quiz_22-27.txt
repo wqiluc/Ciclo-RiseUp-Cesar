@@ -1,0 +1,33 @@
+4 de 4✅
+
+1º Para adicionar uma informação no rodapé da página qual tag é a mais apropriada?
+
+Sua resposta
+<footer> </footer>
+
+Explicação:
+Parabéns! Você identificou a tag correta. A tag <footer> é semanticamente projetada para representar o rodapé de seu documento ou de uma seção. Ela é o local apropriado para informações de autoria, links de contato, direitos autorais e outros dados relacionados ao final da página ou seção.
+
+2º A tag <nav> é utilizada para adicionar um menu de navegação na página. Essa frase é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns! Você acertou. A tag <nav> é semanticamente projetada para seções de navegação em um documento HTML. Ela ajuda tanto os desenvolvedores a organizar o código quanto os leitores de tela a identificar áreas de navegação, facilitando a acessibilidade e a estrutura do conteúdo.
+
+3º Se usarmos três tags <span> consecutivas no seu código HTML como o conteúdo definido dentro de cada tag será exibido na tela?
+
+Sua resposta
+O conteúdo de cada <span> será exibido um ao lado do outro;
+
+Explicação:
+Parabéns pela sua resposta! A tag <span> é um elemento inline por natureza no HTML. Isso significa que ela não inicia uma nova linha; em vez disso, ocupa apenas o espaço necessário para seu conteúdo e permite que outros elementos inline ou texto continuem na mesma linha, um ao lado do outro. É o comportamento padrão para este tipo de elemento.
+
+4º Com qual extensão você deve salvar um arquivo pra indicar que ele é um arquivo HTML?
+
+Sua resposta
+.html
+
+Explicação:
+Parabéns! A extensão .html é a convenção padrão e universalmente reconhecida para arquivos que contêm documentos HTML (HyperText Markup Language). Ao usar essa extensão, os navegadores e outros softwares conseguem identificar corretamente o tipo de conteúdo e renderizá-lo como uma página web. 

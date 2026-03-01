@@ -1,0 +1,26 @@
+/*
+
+Anatomia:
+
+*Declaration;
+*Selector;
+* {} - context;
+* Properties;
+* Property value
+*/
+
+body{
+    background-color: black;
+}
+h1{
+    color: whitesmoke;
+    font-size: 30px;
+    letter-spacing: 2;
+    text-transform: lowercase; }
+
+h2{
+    color: palevioletred;
+    font-size: 25px;
+    letter-spacing: 1;
+    text-transform: none;
+}

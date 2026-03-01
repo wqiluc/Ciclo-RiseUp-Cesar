@@ -1,0 +1,24 @@
+/* Especificidade: 
+  - Cada seletor tem um peso⚖️;
+  - Soma dos pesos faz a declaração ser aplicada.
+
+
+ex:
+
+#id - 100 (mais valioso)
+ .class - 10
+ element - 1 (menos valioso)
+*/
+
+p#text.green{
+    color: red;
+}
+
+.green{
+    color: greenyellow;
+}
+
+p{
+    color: red;
+}
+

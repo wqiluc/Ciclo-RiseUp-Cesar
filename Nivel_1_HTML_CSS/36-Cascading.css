@@ -1,0 +1,28 @@
+/*
+
+- Cascading/Cascada no css!
+- Hierarquia de Regras Aplicadas
+
+*/ 
+
+body{
+    background-color: blueviolet;
+    align-items: center;
+}
+
+h1{
+    color: wheat;
+    font-size: large;
+}
+
+p{
+    color: bisque;
+    /*se repetir uma mesma info,
+    ele vai considerar o último e te alertar*/
+}
+
+/*.
+
+funcaotal = seletor de classes
+
+*/

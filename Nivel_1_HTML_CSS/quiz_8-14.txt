@@ -1,0 +1,44 @@
+4 de 5✅
+
+
+1º O que são atributos em HTML?
+
+Sua resposta
+Elementos HTML especiais
+
+INCORRETA
+
+Explicação:
+Atributos não são elementos HTML especiais. Elementos são as "caixas" ou componentes que estruturam o conteúdo, enquanto atributos servem para fornecer detalhes adicionais a esses elementos.
+
+2º O que o atributo "class" faz em HTML?
+
+Sua resposta
+Adiciona uma classe a tag
+
+Explicação:
+Parabéns pela resposta correta! O atributo class em HTML é usado para atribuir um nome de classe a um ou mais elementos. Essa classe pode então ser utilizada por CSS para aplicar estilos específicos a esses elementos, ou por JavaScript para manipular o comportamento deles, permitindo a reutilização de estilos e scripts em múltiplos elementos.
+
+3º O que são atributos booleanos em HTML?
+
+Sua resposta
+Atributos que aceitam apenas valores booleanos (true/false)
+
+Explicação:
+Parabéns! Você acertou. Atributos booleanos em HTML são aqueles que, pela sua presença no elemento, já indicam um valor verdadeiro ("true"), e pela sua ausência, um valor falso ("false"). Não é necessário atribuir explicitamente "true" ou "false" a eles; sua simples inclusão (ou remoção) é o suficiente. Exemplos incluem disabled, checked, selected. 
+
+4º O que são atributos globais em HTML?
+
+Sua resposta
+Atributos que podem ser usados em qualquer elemento HTML
+
+Explicação:
+Parabéns! Você acertou. Atributos globais são de fato aqueles que podem ser aplicados a qualquer elemento HTML, independentemente do tipo de elemento. Eles fornecem funcionalidades comuns, como identidade, estilo e comportamento, de forma consistente em toda a estrutura do documento.
+
+5º Como você define uma classe em um elemento HTML?
+
+Sua resposta
+<div class="minha-classe">
+
+Explicação:
+Parabéns! Você identificou corretamente a forma de atribuir uma classe a um elemento HTML. O atributo class é o padrão e a maneira correta de definir uma ou mais classes CSS para estilização ou manipulação via JavaScript. Múltiplas classes podem ser adicionadas separando-as por espaços.

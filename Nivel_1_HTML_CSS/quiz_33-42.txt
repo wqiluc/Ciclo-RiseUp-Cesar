@@ -1,0 +1,34 @@
+4 de 4✅
+
+1º qual a sintaxe básica de uma regra CSS?
+
+Sua resposta
+Seletor { propriedade: valor; }
+
+Explicação: 
+Parabéns! Você identificou corretamente a sintaxe básica de uma regra CSS. Uma regra CSS é composta por um seletor, que aponta para o elemento HTML que você deseja estilizar, seguido por um bloco de declarações entre chaves {}. Dentro desse bloco, há uma ou mais declarações, cada uma contendo uma propriedade, um sinal de dois pontos : e um valor, finalizada por um ponto e vírgula ;. Essa estrutura é fundamental para aplicar estilos em folhas de estilo.
+
+
+2º O que são comentários em CSS?
+
+Sua resposta
+Instruções que são ignoradas pelo navegador.
+
+Explicação:
+Parabéns! Você acertou. Comentários em CSS são blocos de texto inseridos no código que não são processados ou interpretados pelo navegador. Eles são usados por desenvolvedores para adicionar notas explicativas, desativar temporariamente partes do código ou organizar o código, sem afetar o layout ou o comportamento visual da página.
+
+3º Qual a diferença entre um seletor e uma propriedade?
+Sua resposta
+
+Um seletor é usado para selecionar elementos HTML, enquanto uma propriedade é usada para definir o estilo desses elementos.
+
+Explicação:
+Parabéns! Você acertou. No CSS, o seletor é o que identifica e seleciona os elementos HTML que você deseja estilizar, como por exemplo p para parágrafos ou .minhaClasse para elementos com uma classe específica. Já a propriedade é o aspecto visual ou de layout que você quer alterar nesse elemento, como color para a cor do texto ou font-size para o tamanho da fonte.
+
+4º Qual a diferença entre um id e uma classe?
+
+Sua resposta
+Um id é usado para identificar um único elemento HTML, enquanto uma classe é usada para identificar um grupo de elementos HTML.
+
+Explicação:
+Parabéns pela sua resposta! Você acertou. Um id deve ser único em uma página HTML, o que significa que ele é usado para identificar um elemento específico e exclusivo. Já uma classe pode ser reutilizada em vários elementos, permitindo que múltiplos elementos compartilhem os mesmos estilos ou funcionalidades.
