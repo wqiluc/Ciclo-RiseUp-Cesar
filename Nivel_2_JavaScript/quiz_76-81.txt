@@ -1,0 +1,45 @@
+4 de 4✅
+
+Questão 1
+CORRETA
+
+Qual é a principal finalidade do JavaScript?
+
+Sua resposta
+Manipular o conteúdo e comportamento das páginas web
+
+Explicação:
+Parabéns pela resposta! Esta opção está correta. A principal finalidade do JavaScript é adicionar interatividade às páginas web. Ele permite manipular a DOM (Document Object Model), que representa a estrutura do HTML de uma página, e assim alterar o conteúdo, a estrutura e o estilo dos elementos de forma dinâmica, além de responder a eventos do usuário (como cliques de botão e preenchimento de formulários).
+
+Questão 2
+CORRETA
+
+Qual extensão de arquivo é comumente associada a arquivos JavaScript?
+
+Sua resposta
+.js
+
+Explicação:
+Parabéns! Sua resposta está correta. A extensão de arquivo .js é o padrão e a mais comum utilizada para identificar arquivos que contêm código JavaScript. Isso permite que navegadores e ambientes de execução como o Node.js reconheçam e processem o conteúdo como scripts JavaScript.
+
+Questão 3
+CORRETA
+
+Como você vincula um arquivo JavaScript a uma página HTML?
+
+Sua resposta
+<script src="arquivo.js"></script>
+
+Explicação:
+Parabéns, você acertou! A forma padrão e mais comum de incluir um arquivo JavaScript externo em uma página HTML é utilizando a tag <script> com o atributo src. O atributo src especifica o caminho para o arquivo JavaScript que será executado pelo navegador.
+
+Questão 4
+CORRETA
+
+Qual é a sintaxe correta para adicionar um comentário de uma linha em JavaScript?
+
+Sua resposta
+// Comentário
+
+Explicação:
+Parabéns! Você acertou. Em JavaScript, os dois caracteres de barra // são usados para iniciar um comentário de linha única. Todo o texto que segue esses caracteres na mesma linha é ignorado pelo interpretador JavaScript, permitindo que você adicione anotações e explicações ao seu código de forma eficaz.
