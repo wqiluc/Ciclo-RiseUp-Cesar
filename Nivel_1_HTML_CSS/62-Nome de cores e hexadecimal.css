@@ -1,0 +1,49 @@
+/*
+Named colors:
+São cores definidas por nome no CSS.
+Exemplos:
+rebeccapurple; → cor roxa nomeada oficialmente no CSS.
+aliceblue; → tom bem claro de azul quase branco.
+
+RGB Hexadecimal (0 - F):
+Sistema de cores baseado em valores hexadecimais (0–9 e A–F).
+Cada par representa a intensidade de Red, Green e Blue.
+
+#f09 - RGB;
+Forma abreviada de 3 dígitos.
+Equivale a:
+#ff0099
+Cada dígito é duplicado:
+f → ff
+0 → 00
+9 → 99
+
+#ff0099 - RRGGBB;
+Formato completo com 6 dígitos.
+RR → intensidade do vermelho (ff = 255).
+GG → intensidade do verde (00 = 0).
+BB → intensidade do azul (99 = 153).
+
+ff0099cc - RRGGBBAA.
+Formato com 8 dígitos (inclui transparência).
+RR → vermelho.
+GG → verde.
+BB → azul.
+AA → alpha (opacidade).
+cc → nível de transparência (quanto mais próximo de ff, mais opaco).
+*/
+
+body{
+    background-color: black; 
+    /* Define a cor de fundo da página inteira como preta.
+       "black" é um named color. */
+}
+
+p{
+    color: pink; 
+    /* Define a cor do texto dos parágrafos como rosa.
+       "pink" também é um named color. */
+
+    font-style: italic;
+    /* Deixa o texto em itálico. */
+}

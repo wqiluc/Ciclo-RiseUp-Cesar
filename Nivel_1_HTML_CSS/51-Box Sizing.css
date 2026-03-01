@@ -1,0 +1,12 @@
+/* Box Sizing:*/
+
+div, span{
+    width: 200px;
+    height: 100px;
+    border: solid purple;
+}
+
+.padding{
+    box-sizing: border-box;
+    padding: 20px 40px 0 10px;
+}

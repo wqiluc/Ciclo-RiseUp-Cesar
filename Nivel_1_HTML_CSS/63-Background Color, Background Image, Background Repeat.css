@@ -1,0 +1,17 @@
+/*
+background-color;
+background-image;
+backgroubd-repeat.=
+*/
+
+body{
+    background-color: rgb(8, 100, 249);
+    background-image: url(/img/RocketSeat\ Logo.jpeg)
+}
+
+div{
+
+width: 200px;
+height: 200px;
+
+}

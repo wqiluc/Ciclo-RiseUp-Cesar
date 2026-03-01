@@ -1,0 +1,28 @@
+/*
+
+    color;
+    text-transform;
+    text-decoration;
+
+*/
+
+body{
+    background-color: wheat;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+p{
+
+    color: red;
+    text-transform: capitalize;
+    
+}
+
+mark{
+    color: purple;
+    text-transform: unset;
+}

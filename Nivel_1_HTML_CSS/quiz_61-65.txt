@@ -1,0 +1,45 @@
+4 de 4 ✅
+
+Questão 1
+CORRETA
+
+Como definir a cor de fundo de um elemento HTML?
+
+Sua resposta
+Usando a propriedade background-color.
+
+Explicação:
+Parabéns! Você acertou. A propriedade background-color é a forma correta e mais comum de definir uma cor de fundo para qualquer elemento HTML usando CSS. Ela permite especificar uma cor sólida para o plano de fundo do elemento.
+
+Questão 2
+CORRETA
+
+O que é a propriedade background-image?
+
+Sua resposta
+Uma propriedade que define a imagem de fundo de um elemento HTML.
+
+Explicação:
+Parabéns, você acertou! A propriedade background-image no CSS é especificamente utilizada para definir uma imagem como plano de fundo de um elemento HTML, permitindo que você adicione elementos visuais gráficos ao fundo de caixas, seções ou mesmo a página inteira.
+
+Questão 3
+CORRETA
+
+O que é a propriedade background-repeat?
+
+Sua resposta
+Uma propriedade que define como a imagem de fundo é repetida em um elemento HTML.
+
+Explicação:
+Parabéns! Você acertou. A propriedade background-repeat, no CSS, é especificamente utilizada para controlar como uma imagem de fundo será repetida dentro de um elemento. Por exemplo, você pode querer que ela se repita apenas horizontalmente (repeat-x), verticalmente (repeat-y), em ambas as direções (repeat) ou não se repita (no-repeat).
+
+Questão 4
+CORRETA
+
+O que é a propriedade background-position?
+
+Sua resposta
+Uma propriedade que define a posição da imagem de fundo em um elemento HTML.
+
+Explicação:
+Parabéns, você acertou! A propriedade background-position realmente define a posição inicial da imagem de fundo em relação ao seu elemento contendor. É possível especificar valores em unidades de medida (px, em, %) ou palavras-chave (top, center, bottom, left, right).

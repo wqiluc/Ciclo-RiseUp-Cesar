@@ -1,0 +1,18 @@
+/*
+font-style; e
+font-weight;
+*/
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+
+p{
+
+    font-style: italic;
+    font-weight: bold;
+
+}

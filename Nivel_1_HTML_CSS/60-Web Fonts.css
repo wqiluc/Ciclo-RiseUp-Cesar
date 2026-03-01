@@ -1,0 +1,46 @@
+/* 
+
+Web-Fonts 
+https://fonts.google.com
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: #f1f5f9;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+p {
+    font-weight: 300;
+    max-width: 600px;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+mark {
+    background-color: #38bdf8;
+    color: #0f172a;
+    padding: 4px 8px;
+    border-radius: 6px;
+}

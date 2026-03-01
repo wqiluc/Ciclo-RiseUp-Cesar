@@ -1,0 +1,10 @@
+/* font-family*/
+
+p{
+    /*genéricas*/
+    /*font-family: sans-serif;*/ 
+    /*etc*/
+    /*nome da família + genéricas*/
+    /*ele dá um 'fallback/plano de retenção' se NÃO ACHAR a fonte que você quer"*/
+    font-family: 'Times New Roman', Times, serif;
+}

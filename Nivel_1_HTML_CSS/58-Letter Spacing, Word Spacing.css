@@ -1,0 +1,22 @@
+/*
+
+letter-spacing; e
+word-spacing.
+
+*/
+
+body{
+    background-color: rgb(27, 26, 26);
+}
+
+h1{
+    color: rgb(8, 45, 205);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p{
+    letter-spacing: 0.1rem;
+    color: yellow;
+    word-spacing: 9;
+}

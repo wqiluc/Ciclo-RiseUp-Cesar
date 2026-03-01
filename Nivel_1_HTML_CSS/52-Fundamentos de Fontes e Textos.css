@@ -1,0 +1,181 @@
+/*
+========================================
+FUNDAMENTOS DE FONTES E TEXTOS NO CSS
+========================================
+
+O CSS possui diversas propriedades para controlar
+a aparência de fontes e textos em uma página.
+
+----------------------------------------
+1) FONT-FAMILY
+----------------------------------------
+
+Define qual fonte será usada no texto.
+
+Podemos usar:
+- Fontes instaladas no sistema (Arial, Verdana);
+- Fontes importadas (Google Fonts, etc);
+- Famílias genéricas (serif, sans-serif, monospace).
+
+Sempre é recomendado usar mais de uma opção
+como fallback (caso a primeira não carregue).
+
+----------------------------------------
+2) FONT-SIZE
+----------------------------------------
+
+Define o tamanho do texto.
+
+Unidades mais usadas:
+- px  -> tamanho fixo;
+- em  -> relativo ao elemento pai;
+- rem -> relativo ao elemento raiz (html);
+- %   -> percentual relativo ao pai.
+
+Boa prática moderna: usar rem para melhor responsividade.
+
+----------------------------------------
+3) FONT-WEIGHT
+----------------------------------------
+
+Define o peso (espessura) da fonte.
+
+Valores comuns:
+- normal (400);
+- bold (700);
+- números entre 100 e 900.
+
+----------------------------------------
+4) FONT-STYLE
+----------------------------------------
+
+Define o estilo da fonte.
+
+Valores:
+- normal;
+- italic;
+- oblique.
+
+----------------------------------------
+5) FONT-VARIANT
+----------------------------------------
+
+Permite variações como small-caps,
+que transforma letras minúsculas
+em maiúsculas menores.
+
+----------------------------------------
+6) PROPRIEDADE SHORTHAND: FONT
+----------------------------------------
+
+Permite definir várias propriedades
+em uma única linha.
+
+Ordem correta:
+font-style -> font-variant -> font-weight ->
+font-size/line-height -> font-family.
+
+----------------------------------------
+7) COLOR
+----------------------------------------
+
+Define a cor do texto.
+
+Pode ser:
+- nome (red);
+- hexadecimal (#000000);
+- rgb();
+- rgba();
+- hsl().
+
+----------------------------------------
+8) TEXT-ALIGN
+----------------------------------------
+
+Define o alinhamento horizontal do texto.
+
+Valores:
+- left;
+- right;
+- center;
+- justify.
+
+----------------------------------------
+9) TEXT-DECORATION
+----------------------------------------
+
+Define decorações no texto.
+
+Valores:
+- none;
+- underline;
+- overline;
+- line-through.
+
+----------------------------------------
+10) TEXT-TRANSFORM
+----------------------------------------
+
+Controla transformação das letras.
+
+Valores:
+- uppercase;
+- lowercase;
+- capitalize.
+
+----------------------------------------
+11) LETTER-SPACING
+----------------------------------------
+
+Define o espaçamento entre letras.
+
+----------------------------------------
+12) WORD-SPACING
+----------------------------------------
+
+Define o espaçamento entre palavras.
+
+----------------------------------------
+13) LINE-HEIGHT
+----------------------------------------
+
+Define a altura da linha,
+melhorando legibilidade do texto.
+
+----------------------------------------
+14) TEXT-INDENT
+----------------------------------------
+
+Define o recuo da primeira linha
+de um parágrafo.
+
+----------------------------------------
+15) TEXT-SHADOW
+----------------------------------------
+
+Adiciona sombra ao texto.
+
+Estrutura:
+horizontal vertical desfoque cor.
+
+----------------------------------------
+RESUMO FINAL
+----------------------------------------
+
+Fontes controlam:
+- tipo da letra;
+- tamanho;
+- peso;
+- estilo.
+
+Textos controlam:
+- alinhamento;
+- espaçamento;
+- transformação;
+- decoração;
+- cor;
+- sombra.
+
+Esses fundamentos são essenciais
+para estilizar qualquer interface web.
+*/

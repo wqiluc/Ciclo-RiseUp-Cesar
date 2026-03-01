@@ -1,0 +1,17 @@
+/* Display Block:
+
+1. Ocupa toda a linha, como um bloco mesmo;
+2. 'width' e 'height' são aplicados✅;
+3. 'padding', 'margin' e 'border' funcionam por completo
+
+>elementos:
+<div>, <main>, <header>, <section>, <p> ...
+*/
+
+div{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}

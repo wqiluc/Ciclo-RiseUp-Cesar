@@ -1,0 +1,102 @@
+/*
+=============================================
+CORES E FUNDOS NO CSS
+=============================================
+
+CORES NO CSS
+
+A propriedade "color" é usada para definir a cor do texto de um elemento.
+
+Existem várias formas de definir cores no CSS:
+
+1) Nome da cor
+   Utiliza nomes pré-definidos.
+   Exemplos: red, blue, green, black, white, gray.
+
+2) Hexadecimal
+   Formato: #RRGGBB
+   RR = quantidade de vermelho
+   GG = quantidade de verde
+   BB = quantidade de azul
+   Vai de 00 até FF.
+   Exemplo: #ff0000 (vermelho).
+
+3) RGB
+   Formato: rgb(vermelho, verde, azul)
+   Cada valor vai de 0 a 255.
+   Exemplo: rgb(255, 0, 0).
+
+4) RGBA
+   Igual ao RGB, mas com transparência.
+   Formato: rgba(vermelho, verde, azul, alpha)
+   Alpha vai de 0 até 1.
+   0 = totalmente transparente
+   1 = totalmente visível.
+
+5) HSL
+   Formato: hsl(matiz, saturação, luminosidade)
+   Matiz: 0 a 360 (tipo de cor)
+   Saturação: porcentagem
+   Luminosidade: porcentagem.
+
+6) HSLA
+   Igual ao HSL, mas com transparência (alpha).
+
+
+=============================================
+FUNDOS NO CSS
+=============================================
+
+A propriedade principal para fundo é "background".
+Também podemos usar propriedades específicas.
+
+1) background-color
+   Define a cor de fundo do elemento.
+
+2) background-image
+   Define uma imagem como fundo.
+   Pode ser usada com url("imagem.jpg").
+
+3) background-repeat
+   Controla se a imagem vai repetir.
+   Valores comuns:
+   - repeat
+   - no-repeat
+   - repeat-x
+   - repeat-y
+
+4) background-position
+   Define a posição da imagem de fundo.
+   Pode usar:
+   - left, right, center
+   - top, bottom
+   - ou valores em px, %, etc.
+
+5) background-size
+   Define o tamanho da imagem de fundo.
+   Valores comuns:
+   - cover (preenche tudo)
+   - contain (mostra tudo sem cortar)
+   - valores em px ou %
+
+6) background-attachment
+   Define se o fundo rola com a página.
+   - scroll
+   - fixed
+
+Também existe a forma resumida:
+
+background:
+   Permite definir várias propriedades em uma única linha,
+   como cor, imagem, repetição, posição e tamanho.
+
+=============================================
+RESUMO:
+=============================================
+
+color -> cor do texto.
+background-color -> cor do fundo.
+background-image -> imagem de fundo.
+rgba e hsla -> permitem transparência.
+cover e contain -> controlam o tamanho da imagem.
+*/ 

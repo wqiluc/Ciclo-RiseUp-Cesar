@@ -1,0 +1,21 @@
+/*
+    font(shorthand);
+    font-style, font-variant;
+    font-weight, font-stretch;
+    font-size/line-height; e
+    font-family.
+*/
+
+body{
+    background-color: rgba(0, 0, 0, 0.882);
+}
+
+h1{
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    font: italic;
+}
+
+p{
+    font-family: 16px/1.6 sans-serif;
+}

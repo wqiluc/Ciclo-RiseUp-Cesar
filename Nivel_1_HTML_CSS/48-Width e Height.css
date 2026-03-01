@@ -1,0 +1,8 @@
+/* width e height 
+alturas pra box se definem raramente! */
+
+div, span{
+    border: solid;
+    min-width: 200px;
+    height: 200px;
+}

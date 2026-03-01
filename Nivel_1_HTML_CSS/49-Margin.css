@@ -1,0 +1,15 @@
+/* Margin:
+"short-handed"
+*/
+
+div, span{
+    width: 50%;
+    border: solid red;
+}
+
+
+.margin{
+    margin: 30px 10px 80px 4rem;
+    /*margin:top,left, right...*/
+    margin: auto;
+}

@@ -1,0 +1,28 @@
+/*
+Padding = Preenchimento
+
+você pode utilizar o padding no css
+de diversas maneiras e preenchendo diferentes pontos,
+como:
+
+padding-left;
+padding-top;
+padding-right;
+padding-inline-end;
+padding-inline-start;
+etc
+*/
+
+div, span{
+    height: 100px;
+    width: 200px;
+    border: solid violet;
+
+}
+
+.padding{
+
+    padding: 20px 20px;
+
+
+}

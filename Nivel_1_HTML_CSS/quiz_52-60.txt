@@ -1,0 +1,47 @@
+4 de 4✅
+
+Questão 1
+CORRETA
+
+Qual propriedade define a família da fonte a ser usada em um elemento HTML?
+
+Sua resposta
+font-family
+
+Explicação:
+Parabéns, você acertou! A propriedade font-family é a responsável por especificar a família da fonte que deve ser utilizada para renderizar o texto em um elemento HTML. Ela permite definir uma lista de fontes, onde o navegador tentará usar a primeira disponível.
+
+
+Questão 2
+CORRETA
+
+Como especificar a família da fonte usando nomes genéricos?
+
+Sua resposta
+Usando aspas simples ou duplas e as palavras-chave serif, sans-serif, monospace ou cursive.
+
+Explicação:
+Parabéns! Sua resposta está correta. Para especificar a família da fonte usando nomes genéricos de forma completa e robusta, você deve combinar o uso de aspas (simples ou duplas) para nomes que contenham espaços ou caracteres especiais, e as palavras-chave genéricas como serif, sans-serif, monospace, cursive ou fantasy. Essas palavras-chave atuam como um "fallback" caso as fontes específicas não estejam disponíveis no sistema do usuário, garantindo que o texto seja exibido com um tipo de fonte semelhante ao desejado. Por exemplo, font-family: "Times New Roman", serif;.
+
+Questão 3
+CORRETA
+
+O que é a propriedade font-size?
+
+Sua resposta
+Uma propriedade que define o tamanho da fonte.
+
+Explicação:
+Parabéns, você acertou! A propriedade font-size é fundamental no CSS para controlar o tamanho do texto exibido. Ela aceita diversas unidades de medida, como pixels (px), em, rem, percentagens (%), entre outras, permitindo um controle flexível sobre a escala tipográfica na página.
+
+
+Questão 4
+CORRETA
+
+O que é a propriedade font-weight?
+
+Sua resposta
+Uma propriedade que define o peso da fonte.
+
+Explicação:
+Parabéns pela sua resposta! A propriedade font-weight é usada para definir a grossura ou o "peso" dos caracteres de uma fonte. Ela pode receber valores como bold, normal, ou valores numéricos de 100 a 900, indicando a intensidade da fonte.

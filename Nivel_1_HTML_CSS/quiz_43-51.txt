@@ -1,0 +1,45 @@
+4 de 4✅
+
+Questão 1
+CORRETA
+
+Quais são as partes do CSS Box Model?
+
+Sua resposta
+Conteúdo, borda, margem e padding.
+
+Explicação:
+Parabéns! Você acertou. O Box Model do CSS é composto por quatro partes fundamentais, que são aplicadas em camadas: o conteúdo (content) é a área central onde o conteúdo real é exibido; o preenchimento (padding) adiciona espaço entre o conteúdo e a borda; a borda (border) é a linha que envolve o padding e o conteúdo; e a margem (margin) é o espaço transparente ao redor da borda, que separa o elemento de outros elementos
+
+Questão 2
+CORRETA
+
+O que é a propriedade margin?
+
+Sua resposta
+Uma propriedade que define a distância entre o elemento HTML e outros elementos HTML.
+
+Explicação:
+Parabéns! Você acertou. A propriedade margin em CSS é utilizada para criar espaço extra ao redor de um elemento, separando-o de outros elementos vizinhos. É o espaço externo no Box Model.
+
+Questão 3
+CORRETA
+
+O que é a propriedade padding?
+
+Sua resposta
+Uma propriedade que define a distância entre o conteúdo de um elemento HTML e a borda do elemento.
+
+Explicação:
+Parabéns! Sua resposta está correta. A propriedade padding é fundamental no Box Model do CSS, pois cria um espaço interno transparente entre o conteúdo de um elemento e sua borda. Esse espaço 'empurra' a borda para fora, aumentando a área visível do elemento sem afetar o conteúdo em si.
+
+Questão 4
+CORRETA
+
+Qual a diferença entre margin-top e margin-bottom?
+
+Sua resposta
+margin-top define a margem superior de um elemento HTML, enquanto margin-bottom define a margem inferior do elemento.
+
+Explicação:
+Parabéns! Você compreendeu corretamente. As propriedades margin-top e margin-bottom são usadas especificamente para controlar o espaço externo, ou seja, a margem superior e inferior, respectivamente, de um elemento HTML em relação aos elementos vizinhos. Elas fazem parte do Box Model CSS, que descreve como o espaço é ocupado ao redor dos elementos.

@@ -1,0 +1,11 @@
+/*
+background-position;
+background-size.
+*/
+
+body{
+    background-color: black;
+    background-image: url("../img/RocketSeat\ Logo.jpeg");
+    background-repeat: no-repeat;
+    background-position-x: right
+}
