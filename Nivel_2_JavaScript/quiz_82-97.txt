@@ -1,0 +1,91 @@
+8 de 8 ✅
+
+Questão 1
+CORRETA
+
+Em JavaScript, o que são variáveis?
+
+Sua resposta
+Espaços de memória para armazenar dados
+
+Explicação:
+Parabéns! Você acertou. Variáveis são, de fato, nomes simbólicos para locais na memória onde podemos armazenar valores. Elas nos permitem referenciar e manipular esses dados ao longo da execução de um programa.
+
+Questão 2
+CORRETA
+
+O que a palavra-chave "let" faz ao declarar uma variável em JavaScript?
+
+Sua resposta
+Permite a reatribuição da variável
+
+Explicação:
+Parabéns! Sua resposta está correta. A principal característica de uma variável declarada com let é que, embora ela tenha escopo de bloco e não possa ser redeclarada no mesmo escopo, seu valor pode ser reatribuído. Isso significa que você pode alterar o valor que ela armazena após sua declaração inicial.
+
+
+Questão 3
+CORRETA
+
+Qual é a principal característica da palavra-chave "const" ao declarar variáveis?
+
+Sua resposta
+Torna a variável constante e não pode ser reatribuída
+
+Explicação:
+Parabéns! Você acertou. A palavra-chave const em programação é utilizada para declarar uma variável cujo valor deve permanecer constante, ou seja, não pode ser alterado ou reatribuído depois de sua definição inicial. Isso garante a imutabilidade do valor da variável, o que contribui para a robustez e previsibilidade do código.
+
+Questão 4
+CORRETA
+
+O que é escopo em JavaScript?
+
+Sua resposta
+Determina onde uma variável ou função pode ser acessada dentro de um programa
+
+Explicação:
+Parabéns! Sua resposta está correta. O escopo em JavaScript, de fato, refere-se à acessibilidade de variáveis e funções em diferentes partes do seu código. Ele controla onde essas entidades podem ser usadas e encontradas.
+
+
+Questão 5
+CORRETA
+
+O que é hoisting em JavaScript?
+
+Sua resposta
+Elevar uma variável para o topo de seu escopo durante a fase de compilação
+
+Explicação:
+Parabéns! Você acertou. O hoisting é um comportamento do JavaScript onde declarações de variáveis e funções são processadas antes da execução do código. Isso significa que, conceitualmente, essas declarações são movidas para o topo de seu escopo (seja global ou de função) durante a fase de compilação, permitindo que elas sejam acessadas antes de sua linha de declaração real aparecer no código.
+
+Questão 6
+CORRETA
+
+Quais dos itens abaixo representam tipos de dados primitivos em JavaScript?
+
+Sua resposta
+Number, Boolean, String
+
+Explicação:
+Parabéns! Você acertou. No JavaScript, Number, Boolean e String são, de fato, tipos de dados primitivos. Eles representam valores únicos e imutáveis, ou seja, uma vez criados, não podem ser modificados, apenas substituídos por um novo valor. Além desses, temos também Undefined, Null, Symbol e, mais recentemente, BigInt como tipos primitivos.
+
+Questão 7
+CORRETA
+
+Quais são os possíveis valores para o tipo de dado "Boolean" em JavaScript?
+
+Sua resposta
+True e False
+
+Explicação:
+Parabéns! Você acertou. No JavaScript, assim como em muitas outras linguagens de programação, o tipo de dado booleano representa valores lógicos e só pode ser true (verdadeiro) ou false (falso). Esses valores são fundamentais para controlar o fluxo de execução de programas, como em condições if/else e loops.
+
+Questão 8
+CORRETA
+
+O que é o escopo de bloco em JavaScript?
+
+Sua resposta
+Onde as variáveis estão disponíveis apenas dentro de um bloco delimitado por chaves: '{}'
+
+Explicação:
+Parabéns! Sua resposta está correta. O escopo de bloco define que variáveis declaradas com let e const são acessíveis somente dentro do bloco de código (delimitado por {}) onde foram definidas, como em laços for, condicionais if ou outros blocos arbitrários.

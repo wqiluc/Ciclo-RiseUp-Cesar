@@ -1,0 +1,67 @@
+6 de 6✅
+
+Questão 1
+CORRETA
+
+Quais são os operadores aritméticos em JavaScript?
+
+Sua resposta
++, -, *, /
+
+Explicação:
+Parabéns! Você identificou corretamente os operadores aritméticos básicos em JavaScript. Os símbolos + (adição), - (subtração), * (multiplicação) e / (divisão) são usados para realizar cálculos matemáticos fundamentais com valores numéricos. Além desses, JavaScript também possui outros operadores aritméticos como % (módulo) e ** (exponenciação), mas os listados são os mais comuns.
+
+Questão 2
+CORRETA
+
+Qual é a ordem de precedência correta dos operadores em JavaScript?
+
+Sua resposta
+*, /, +, -
+
+Explicação:
+Parabéns! Você identificou corretamente a ordem de precedência dos operadores em JavaScript. Assim como na matemática, a multiplicação (*) e a divisão (/) são avaliadas antes da adição (+) e da subtração (-). Isso garante que expressões matemáticas sejam computadas de forma consistente. Operadores com a mesma precedência são geralmente avaliados da esquerda para a direita.
+
+Questão 3
+CORRETA
+
+Quais operadores de comparação são usados para verificar igualdade e diferença de valor, levando em consideração tanto o valor quanto o tipo de dado em JavaScript?
+
+Sua resposta
+===, !==
+
+Explicação:
+Parabéns! Sua escolha está correta. Os operadores === (igualdade estrita) e !== (diferença estrita) são os operadores corretos em JavaScript para verificar igualdade e diferença de valor, respectivamente, levando em consideração tanto o valor quanto o tipo de dado. Isso significa que, para que a comparação seja verdadeira, ambos os operandos devem ter o mesmo valor E o mesmo tipo de dado, sem qualquer coerção de tipo implícita.
+
+Questão 4
+CORRETA
+
+Quais são os operadores de comparação para verificar maior, menor ou maior igual e menor igual em JavaScript?
+
+Sua resposta
+>, <, >=, <=
+
+Explicação:
+Parabéns! Você identificou corretamente os operadores de comparação em JavaScript. O símbolo > é usado para verificar se um valor é maior que outro, enquanto < verifica se é menor. Para "maior ou igual", utilizamos >=, e para "menor ou igual", utilizamos <=. Estes são os operadores padrão para essas verificações relacionais na linguagem.
+
+Questão 5
+CORRETA
+
+Como você atribui o valor de uma variável utilizando o operador de atribuição?
+
+Sua resposta
+var x = 10;
+
+Explicação
+Parabéns por escolher a opção correta! A sintaxe var x = 10; é a forma padrão de declarar e atribuir um valor inicial a uma variável em linguagens como JavaScript (usando a palavra-chave var, let ou const). O símbolo de igual = é o operador de atribuição e ele associa o valor à direita à variável à esquerda.
+
+Questão 6
+CORRETA
+
+Quais são os operadores lógicos em JavaScript para combinar condições?
+
+Sua resposta
+AND (&&), OR (||), NOT (!)
+
+Explicação:
+Parabéns por identificar os operadores lógicos corretos em JavaScript! Os operadores && (AND lógico), || (OR lógico) e ! (NOT lógico) são fundamentais para construir condições complexas e controlar o fluxo de execução em programas JavaScript. Eles permitem combinar múltiplos valores booleanos ou expressões que resultam em booleanos, avaliando-os para produzir um único resultado verdadeiro ou falso.
