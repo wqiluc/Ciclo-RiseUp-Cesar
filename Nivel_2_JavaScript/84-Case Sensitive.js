@@ -8,4 +8,6 @@ Por exemplo: "Lucas" é considerado DIFERENTE (!=) de "lucas"
 */
 
 var product = "Teclado Mecânico";
-console.log(product)
+var Product = "Mouse Gamer";
+console.log(product);
+console.log(Product);
