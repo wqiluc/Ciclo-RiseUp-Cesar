@@ -1,7 +1,7 @@
 <h1 align="center"> Ordem e Precedência no JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"></h1>
 
 <p align="center">
-<img src="./img/Ordem e Precedência.jpeg" width="600">
+<img src="../img/Ordem e Precedência.jpeg" width="600">
 </p>
 
 <p align="center">

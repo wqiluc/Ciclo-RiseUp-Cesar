@@ -1,0 +1,89 @@
+8 de 8✅
+
+Questão 1
+CORRETA
+
+O que são estruturas condicionais em JavaScript?
+
+Sua resposta
+Instruções que definem diferentes caminhos de execução com base em condições
+
+Explicação:
+Parabéns, sua resposta está correta! Estruturas condicionais são fundamentais para o controle de fluxo de um programa. Elas permitem que o código tome decisões, executando diferentes segmentos de instrução conforme a veracidade ou falsidade de uma determinada condição. Isso significa que o programa pode seguir 'caminhos' distintos, adaptando-se a diferentes situações e dados de entrada.
+
+Questão 2
+CORRETA
+
+Como é estruturada uma instrução "if" em JavaScript?
+
+Sua resposta
+if (condition) { // código }
+
+Explicação:
+Parabéns por escolher a opção correta! A estrutura fundamental de uma instrução if em JavaScript começa com a palavra-chave if, seguida por parênteses () que contêm a condição a ser avaliada. Se a condição for verdadeira, o bloco de código dentro das chaves {} é executado. Esta é a sintaxe padrão e esperada para condicionais em JavaScript.
+
+Questão 3
+CORRETA
+
+Como você adiciona uma condição alternativa a um bloco "if" em JavaScript?
+
+Sua resposta
+else { // código }
+
+Explicação:
+Parabéns! Você acertou. Em JavaScript, o bloco else é utilizado para definir um conjunto de instruções que será executado quando a condição do bloco if (e qualquer else if anterior) for avaliada como falsa. Ele serve como a alternativa final caso nenhuma das condições anteriores seja satisfeita.
+
+Questão 4
+CORRETA
+
+Qual é a finalidade da estrutura "else if" em JavaScript?
+
+Sua resposta
+Adicionar uma condição alternativa
+
+Explicação:
+Parabéns! Sua resposta está correta. A estrutura else if é utilizada para testar uma segunda condição (ou uma série de condições) caso a condição inicial do if seja falsa. Ela permite criar um encadeamento de testes, onde cada condição é avaliada apenas se as anteriores forem falsas.
+
+Questão 5
+CORRETA
+
+O que é tratamento de exceções em JavaScript?
+
+Sua resposta
+Lidar com erros que podem ocorrer durante a execução do código
+
+Explicação:
+Parabéns! Você acertou. O tratamento de exceções, em JavaScript (e em muitas outras linguagens), é o mecanismo pelo qual se gerencia e responde a condições inesperadas ou anômalas que podem surgir durante a execução de um programa. Isso permite que o código continue a operar de forma controlada, mesmo diante de problemas, utilizando blocos como try...catch.
+
+Questão 6
+CORRETA
+
+Quais das opções abaixo são exemplos de valores Falsy em JavaScript?
+
+Sua resposta
+0, "", null
+
+Explicação:
+Parabéns! Você demonstrou um bom entendimento sobre valores falsy. Em JavaScript, valores falsy são aqueles que se comportam como false quando avaliados em um contexto booleano. Os valores 0 (número zero), "" (string vazia) e null são exemplos clássicos de valores que são considerados falsy. Outros exemplos incluem undefined, NaN (Not-a-Number) e o próprio false.
+
+Questão 7
+CORRETA
+
+O que acontece se não houver uma correspondência de caso em uma estrutura "switch"?
+
+Sua resposta
+O bloco "default" é executado (se presente)
+
+Explicação:
+Parabéns! Sua resposta está correta. Em uma estrutura switch, se nenhum dos blocos case corresponder ao valor da expressão, o fluxo de execução procura e executa o bloco default, se ele tiver sido definido. Este bloco atua como uma 'cláusula de exceção' ou 'curinga' para tratar situações onde não há uma correspondência específica.
+
+Questão 8
+CORRETA
+
+Quantas condições alternativas podem ser adicionadas a um bloco "if-else"?
+
+Sua resposta
+Quantas forem necessárias
+
+Explicação:
+Parabéns! Sua resposta está correta. Em programação, é possível adicionar um número ilimitado de condições alternativas a um bloco if-else utilizando a construção else if (ou equivalente, dependendo da linguagem). Isso permite que o programa avalie múltiplas condições sequencialmente, executando o bloco de código associado à primeira condição verdadeira encontrada. Essa flexibilidade é fundamental para lidar com cenários complexos onde várias possibilidades de execução precisam ser consideradas.

@@ -1,7 +1,7 @@
 <h1 align="center"> Condicional Simples no JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"></h1>
 
 <p align="center">
-<img src="./img/condicional.jpeg" width="550">
+<img src="../img/condicional.jpeg" width="550">
 </p>
 
 <p align="center">
