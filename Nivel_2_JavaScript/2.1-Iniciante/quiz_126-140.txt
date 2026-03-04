@@ -1,0 +1,100 @@
+9 de 9✅
+
+Questão 1
+CORRETA
+
+O que significa a sigla "DOM" em JavaScript?
+
+Sua resposta
+Document Object Model
+
+Explicação:
+Parabéns pela resposta! Você acertou. A sigla "DOM" realmente significa "Document Object Model". Ele é uma interface de programação para documentos HTML e XML. Ele representa a página de forma que os programas possam mudar a estrutura, estilo e conteúdo do documento.
+
+Questão 2
+CORRETA
+
+Qual método é comumente usado para acessar um elemento pelo seu ID no DOM?
+
+Sua resposta
+getElementById()
+
+Explicação:
+Excelente! O método getElementById() é de fato o mais utilizado e eficiente para acessar um elemento específico no DOM a partir do seu atributo id único. Ele retorna diretamente o objeto Element correspondente ao ID fornecido.
+
+Questão 3
+CORRETA
+
+Qual é a principal diferença entre querySelector() e getElementById()?
+
+Sua resposta
+querySelector() pode selecionar por qualquer seletor CSS
+
+Explicação:
+Parabéns, você acertou! A principal vantagem de querySelector() é sua flexibilidade. Ele permite selecionar elementos usando a mesma sintaxe de seletores CSS que você usaria em uma folha de estilo, por exemplo, #id, .classe, tag, [atributo], etc. Isso o torna uma ferramenta muito poderosa e versátil para manipulação do DOM.
+
+Questão 4
+CORRETA
+
+Como você cria um novo elemento no DOM usando JavaScript?
+
+Sua resposta
+createElement("newElement")
+
+Explicação:
+Parabéns! Você está correto. A função createElement() é o método padrão e amplamente utilizado no JavaScript para criar um novo nó de elemento HTML. Ela deve ser chamada no objeto document, por exemplo, document.createElement("div") para criar um elemento <div>.
+
+Questão 5
+CORRETA
+
+Como você define um atributo em um elemento usando JavaScript?
+
+Sua resposta
+element.setAttribute("attribute", "value")
+
+Explicação:
+Parabéns! Você acertou! O método setAttribute() é a forma padrão e mais recomendada para definir ou modificar o valor de um atributo em um elemento HTML usando JavaScript. Ele aceita dois argumentos: o nome do atributo como uma string e o valor que você deseja atribuir a ele como outra string, garantindo que o DOM seja atualizado corretamente.
+
+Questão 6
+CORRETA
+
+Como você adiciona um evento a um elemento específico no DOM usando JavaScript?
+
+Sua resposta
+addEventListener("click", myFunction)
+
+Explicação:
+Parabéns pela sua resposta! O método addEventListener() é a forma recomendada e mais flexível de anexar manipuladores de eventos a elementos no DOM. Ele permite que você anexe vários manipuladores do mesmo tipo para um único elemento sem sobrescrever os existentes e oferece recursos adicionais, como o terceiro argumento para configurações de useCapture ou once, controlando o fluxo do evento e seu comportamento.
+
+Questão 7
+CORRETA
+
+Qual evento é acionado quando um formulário é enviado?
+
+Sua resposta
+submit
+
+Explicação:
+Parabéns! Você acertou. O evento correto que é acionado quando um formulário é enviado é o evento submit. Este evento é disparado no elemento <form> e pode ser interceptado para validar dados ou realizar outras ações antes do envio real, incluindo impedir o comportamento padrão do navegador.
+
+Questão 8
+CORRETA
+
+Qual é a finalidade do site "Regexr" ao lidar com expressões regulares?
+
+Sua resposta
+Testar e validar expressões regulares
+
+Explicação:
+Parabéns! Você acertou. O site Regexr tem como finalidade principal ser uma ferramenta interativa para construir, testar e validar expressões regulares (regex). Ele permite aos usuários visualizar como uma expressão regular se comporta em um determinado texto, destacando as correspondências e auxiliando no aprendizado e depuração de padrões.
+
+Questão 9
+CORRETA
+
+Como você obtém o valor de um input usando JavaScript?
+
+Sua resposta
+input.value
+
+Explicação:
+Parabéns, você acertou! Esta é a maneira correta de acessar o valor atual de um elemento de input (como <input>, <select> ou <textarea>) em JavaScript. A propriedade value retorna o conteúdo do campo do formulário como uma string.
