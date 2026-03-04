@@ -1,1 +1,89 @@
-x de x✅
+8 de 8✅
+
+Questão 1
+CORRETA
+
+Em JavaScript, o que são funções?
+
+Sua resposta
+Conjuntos de instruções que podem ser chamados para realizar uma tarefa específica
+
+Explicação:
+Parabéns! Você acertou. Uma função em JavaScript é de fato um bloco de código que pode ser definido uma vez e executado várias vezes para realizar uma tarefa. Elas são essenciais para organizar o código, torná-lo reutilizável e modular.
+
+Questão 2
+CORRETA
+
+Qual é a estrutura básica para declarar uma função em JavaScript?
+
+Sua resposta
+function myFunction() {}
+
+Explicação:
+Parabéns! Você identificou corretamente a sintaxe fundamental para declarar uma função tradicional em JavaScript. A palavra-chave function é essencial, seguida pelo nome da função, parênteses para os parâmetros e chaves para o bloco de código.
+
+Questão 3
+CORRETA
+
+Como uma função retorna um valor em JavaScript?
+
+Sua resposta
+Usando a palavra-chave "return"
+
+Explicação:
+Parabéns! Você acertou. No JavaScript, a palavra-chave return é fundamental para que uma função possa enviar um valor de volta ao local onde foi chamada. Sem ela, a função retornaria undefined por padrão
+
+Questão 4
+CORRETA
+
+O que é escopo de função em JavaScript?
+
+Sua resposta
+A área onde as variáveis dentro de uma função podem ser acessadas
+
+Explicação:
+Você acertou! O escopo de uma função, também conhecido como escopo local, define a visibilidade e o ciclo de vida das variáveis declaradas dentro dessa função. Isso significa que as variáveis criadas dentro de uma função só podem ser acessadas de dentro dessa mesma função, garantindo encapsulamento e evitando conflitos com variáveis de outros escopos.
+
+Questão 5
+CORRETA
+
+O que é uma função anônima em JavaScript?
+
+Sua resposta
+Uma função sem nome associado
+
+Explicação:
+Parabéns! Você acertou. Uma função anônima é, de fato, uma função que não possui um nome associado a ela. Ela é frequentemente definida e usada em linha, como um argumento para outra função ou atribuída a uma variável.
+
+Questão 6
+CORRETA
+
+O que é uma callback function em JavaScript?
+
+Sua resposta
+Uma função passada como argumento para outra função
+
+Explicação:
+Parabéns! Você acertou. Uma callback function é exatamente isso: uma função que é passada como argumento para outra função e que será executada em um ponto posterior no tempo, geralmente após a conclusão de uma operação assíncrona ou um evento específico.
+
+Questão 7
+CORRETA
+
+Por que as funções são importantes em JavaScript?
+
+Sua resposta
+Para reutilizar e modularizar o código
+
+Explicação:
+Parabéns pela resposta! Você acertou. As funções são cruciais em JavaScript (e em muitas outras linguagens de programação) porque permitem que blocos de código sejam definidos uma vez e executados múltiplas vezes. Isso promove a 'reutilização de código' e a 'modularização', onde o programa é dividido em partes menores e gerenciáveis, facilitando a manutenção e o desenvolvimento colaborativo.
+
+Questão 8
+CORRETA
+
+As variáveis declaradas dentro de uma função são acessíveis fora dela?
+
+Sua resposta
+Não, elas são apenas acessíveis dentro do bloco da função
+
+Explicação:
+Parabéns, você acertou! Variáveis declaradas dentro de uma função têm escopo local. Elas só são acessíveis e existem enquanto a função está em execução. Fora do bloco da função, elas não são reconhecidas, o que ajuda a evitar conflitos de nomes e a organizar melhor o código.
