@@ -1,0 +1,166 @@
+15 de 15✅
+
+Questão 1
+CORRETA
+
+Qual é a maneira correta de concatenar strings em JavaScript?
+
+Sua resposta
+"Hello" + "World"
+
+Explicação:
+Parabéns! Você identificou a forma correta de concatenar strings em JavaScript. O operador de adição "+" é amplamente utilizado para essa finalidade, unindo duas ou mais strings para formar uma nova string. Por exemplo, "Hello" + "World" resultaria em "HelloWorld".
+
+Questão 2
+CORRETA
+
+Em JavaScript, o que são variáveis?
+
+Sua resposta
+Espaços de memória para armazenar dados
+
+Explicação:
+Parabéns! Você acertou. Em programação, as variáveis são essencialmente nomes simbólicos para locais na memória do computador onde os dados podem ser guardados. Elas permitem que você armazene e acesse valores de forma organizada e manipulável dentro do seu código.
+
+Questão 3
+CORRETA
+
+O que é escopo em JavaScript?
+
+Sua resposta
+Determina onde uma variável ou função pode ser acessada dentro de um programa
+
+Explicação:
+Parabéns! Sua escolha está correta. Em JavaScript, o escopo de uma variável ou função define a região do código onde essa variável ou função está disponível e pode ser referenciada. Compreender o escopo é fundamental para evitar bugs e escrever código organizado, pois ele controla a visibilidade e o tempo de vida das entidades dentro do seu programa. Existem diferentes tipos de escopo como o global, de função e de bloco.
+
+Questão 4
+CORRETA
+
+O que é hoisting em JavaScript?
+
+Sua resposta
+Elevar uma variável para o topo de seu escopo durante a fase de compilação
+
+Explicação:
+Parabéns! Você acertou. O hoisting é um comportamento do JavaScript onde declarações de variáveis e funções são 'movidas' virtualmente para o topo de seu escopo durante a fase de compilação, antes da execução do código. Isso significa que você pode usar variáveis ou chamar funções antes de realmente declará-las no código, embora o comportamento possa variar para var, let e const.
+
+Questão 5
+CORRETA
+
+Qual é a diferença entre "undefined" e "null" em JavaScript?
+
+Sua resposta
+"undefined" indica uma variável não inicializada, enquanto "null" é usado para representar a ausência intencional de valor
+
+Explicação:
+Excelente! Você acertou. Em JavaScript, undefined é um tipo de dado que significa que uma variável foi declarada, mas ainda não recebeu um valor, ou que uma propriedade de um objeto não existe. Por outro lado, null é um valor de atribuição que indica a ausência intencional de qualquer valor ou objeto, sendo frequentemente usado para 'limpar' ou redefinir uma variável.
+
+Questão 6
+CORRETA
+
+Qual é a diferença principal entre "let" e "const" em relação à reatribuição?
+
+Sua resposta
+"let" permite reatribuição, enquanto "const" não permite
+
+Explicação:
+Parabéns! Sua resposta está correta. A distinção fundamental entre let e const reside justamente na possibilidade de reatribuição. Variáveis declaradas com let podem ter seu valor alterado (reatribuído) a qualquer momento após sua declaração. Já as variáveis declaradas com const são de "constante" referência, o que significa que, uma vez atribuído um valor, ele não pode ser alterado através de uma nova atribuição. No entanto, é importante notar que, para objetos e arrays declarados com const, o conteúdo do objeto ou array pode ser modificado, mas a referência ao objeto ou array em si não pode ser alterada.
+
+Questão 7
+CORRETA
+
+Qual operador é usado para calcular o resto de uma divisão em JavaScript?
+
+Sua resposta
+%
+
+Explicação:
+Parabéns! O operador %, conhecido como operador de módulo ou resto da divisão, é o correto para calcular o valor que sobra após uma divisão inteira em JavaScript. Por exemplo, 10 % 3 resultaria em 1, pois 3 cabe 3 vezes em 10, deixando 1 de resto.
+
+Questão 8
+CORRETA
+
+Qual é a diferença entre x++ e ++x?
+
+Sua resposta
+Ambos incrementam a variável, mas x++ retorna o valor original, enquanto ++x retorna o valor incrementado
+
+Explicação:
+Parabéns, esta é a compreensão correta! Ambos os operadores de incremento aumentam o valor da variável em 1. A principal diferença reside no valor que cada um retorna. O operador de pós-incremento (x++) retorna o valor da variável antes de ser incrementada. Já o operador de pré-incremento (++x) retorna o valor da variável depois de ter sido incrementada.
+
+Questão 9
+CORRETA
+
+O que o operador ! faz em JavaScript?
+
+Sua resposta
+Converte um valor para booleano e nega o resultado
+
+Explicação:
+Parabéns! Você acertou. O operador de negação lógica ! converte o operando para um valor booleano (se ainda não for) e, em seguida, nega esse valor. Por exemplo, !true resulta em false e !0 resulta em true.
+
+Questão 10
+CORRETA
+
+O que é tratamento de exceções em JavaScript?
+
+Sua resposta
+Lidar com erros que podem ocorrer durante a execução do código
+
+Explicação:
+Parabéns, você acertou! O tratamento de exceções em JavaScript (e em muitas outras linguagens de programação) serve para exatamente isso: gerenciar e responder a condições anômalas ou erros que surgem durante a execução de um programa. Isso permite que o código continue a funcionar de forma controlada, mesmo diante de imprevistos, evitando que o programa 'quebre' ou se comporte de maneira inesperada. Ferramentas como try...catch são usadas para essa finalidade.
+
+Questão 11
+CORRETA
+
+Quais das opções abaixo são exemplos de valores Falsy em JavaScript?
+
+Sua resposta
+0, "", null
+
+Explicação:
+Parabéns! Você identificou corretamente os valores falsy em JavaScript. Os valores 0 (número zero), "" (string vazia) e null são todos considerados falsy, o que significa que eles avaliam como false em um contexto booleano. Compreender o conceito de valores falsy é fundamental para escrever lógica condicional eficaz em JavaScript, pois ajuda a prever como expressões serão avaliadas em declarações como if ou com operadores lógicos.
+
+Questão 12
+CORRETA
+
+Qual é a diferença entre argumentos e parâmetros em uma função?
+
+Sua resposta
+Argumentos são os valores passados para a função, enquanto parâmetros são as variáveis definidas na função.
+
+Explicação:
+Parabéns! Sua escolha está correta. Em programação, os parâmetros são os nomes das variáveis listados na definição da função. Já os argumentos são os valores reais que são passados para a função quando ela é chamada. Por exemplo, em function soma(a, b) { ... }, a e b são parâmetros. Ao chamar soma(5, 3), 5 e 3 são os argumentos.
+
+Questão 13
+CORRETA
+
+O que é uma callback function em JavaScript?
+
+Sua resposta
+Uma função passada como argumento para outra função
+
+Explicação:
+Parabéns, você acertou! Uma callback function é precisamente uma função que é passada como argumento para outra função, e esta outra função a "chama de volta" (executa) em um momento posterior. Este padrão é fundamental para a programação assíncrona em JavaScript, gestão de eventos e operações de ordem superior.
+
+Questão 14
+CORRETA
+
+O que são eventos no contexto do DOM?
+
+Sua resposta
+Ações ou ocorrências que acontecem durante a interação do usuário ou a execução de um script
+
+Explicação:
+Parabéns! Sua resposta está correta. No contexto do DOM (Document Object Model), eventos são exatamente isso: ações ou ocorrências que o navegador detecta e que podem ser respondidas por um script. Isso inclui interações do usuário, como cliques, digitação, movimento do mouse, ou eventos do navegador, como o carregamento de uma página ou o redimensionamento da janela.
+
+Questão 15
+CORRETA
+
+Qual é o significado de "depurar o código" em JavaScript?
+
+Sua resposta
+Encontrar e corrigir erros no código para melhorar sua funcionalidade
+
+Explicação:
+Parabéns! Você está correto(a). Depurar o código (ou debugging) é o processo de identificar, analisar e remover bugs (erros) de um programa de computador. Isso é crucial para garantir que o software funcione conforme o esperado e para melhorar sua estabilidade e funcionalidade. Ferramentas de depuração (debuggers) permitem inspecionar variáveis, seguir o fluxo de execução e encontrar a origem dos problemas.

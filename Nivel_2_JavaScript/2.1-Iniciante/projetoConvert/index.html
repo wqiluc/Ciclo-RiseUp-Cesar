@@ -5,44 +5,51 @@
 <title>Conversor de Moedas</title>
 <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
 <div class="container">
-  <h1>Conversor de Moedas</h1>
 
-  <div class="conversor">
+<h1>Conversor de Moedas 🪙</h1>
 
-    <div class="campo">
-      <label>Valor</label>
-      <input type="number" placeholder="Digite o valor">
-    </div>
+<form id="form" class="conversor">
 
-    <div class="campo">
-      <label>De</label>
-      <select>
-        <option>BRL - Real</option>
-        <option>USD - Dólar</option>
-        <option>EUR - Euro</option>
-      </select>
-    </div>
-
-    <div class="campo">
-      <label>Para</label>
-      <select>
-        <option>USD - Dólar</option>
-        <option>BRL - Real</option>
-        <option>EUR - Euro</option>
-      </select>
-    </div>
-
-    <button>Converter</button>
-
-    <div class="resultado">
-      Resultado: 0.00
-    </div>
-
-  </div>
+<div class="campo">
+<label>Valor: 💰</label>
+<input type="text" id="amount" placeholder="Digite o valor">
 </div>
+
+<div class="campo">
+<label>De</label>
+<select id="currency">
+<option>BRL - Real🇧🇷</option>
+<option>USD - Dólar🇺🇸</option>
+<option>EUR - Euro🇪🇺</option>
+</select>
+</div>
+
+<div class="campo">
+<label>Para</label>
+<select id="currencyTo">
+<option>USD - Dólar</option>
+<option>BRL - Real</option>
+<option>EUR - Euro</option>
+</select>
+</div>
+
+<button type="submit">Converter</button>
+
+<div class="resultado">
+Resultado: 0.00
+</div>
+
+<p class="descricao"></p>
+
+</form>
+
+</div>
+
+<script src="scripts.js"></script>
 
 </body>
 </html>
