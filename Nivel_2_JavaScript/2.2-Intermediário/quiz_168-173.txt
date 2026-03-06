@@ -1,0 +1,102 @@
+9 de 9✅
+
+Questão 1
+CORRETA
+
+Qual método do JavaScript utilizamos pra exibir o texto todo em letra minúscula?
+
+Sua resposta
+toLowerCase()
+
+Explicação:
+Parabéns, você acertou! O método toLowerCase() é o método correto em JavaScript para retornar a string de chamada convertida para letras minúsculas.
+
+Questão 2
+CORRETA
+
+Qual método do JavaScript utilizamos pra exibir o texto todo em letra maiúscula?
+
+Sua resposta
+toUpperCase()
+
+Explicação:
+Parabéns! Você acertou. O método toUpperCase() em JavaScript é o que converte todos os caracteres de uma string para letras maiúsculas e retorna a string modificada. É muito útil para padronizar entradas de texto ou exibições.
+
+Questão 3
+CORRETA
+
+Usamos a propriedade length quando queremos:
+Sua resposta
+Descobrir o tamanho do comprimento de uma string;
+
+Explicação:
+Parabéns, sua resposta está correta! A propriedade length é fundamental em JavaScript para determinar o número de caracteres em uma string. Por exemplo, se tivermos
+let texto = "Olá";
+texto.length
+Retornará 3.
+
+Questão 4
+CORRETA
+
+Pra que serve o método toString()?
+Sua resposta
+
+Resumidamente, o método toString() serve para converter um objeto em uma string.
+
+Explicação:
+Parabéns! Você acertou. O método toString() é amplamente utilizado em diversas linguagens de programação para obter a representação em string de um objeto. Isso é útil quando se precisa exibir o conteúdo de um objeto, concatená-lo com outras strings ou passá-lo para funções que esperam uma string, independentemente do tipo original do objeto.
+
+Questão 5
+CORRETA
+
+Usamos o método replace() para:
+
+Sua resposta
+Substituir uma parte de um texto (string) por outro texto;
+
+Explicação:
+Parabéns por sua resposta! O método replace() é fundamentalmente utilizado para localizar uma ocorrência (ou todas as ocorrências, dependendo da implementação e argumentos extras) de um determinado padrão ou substring dentro de uma string e substituí-la por outra string fornecida. É uma operação comum para manipulação de texto.
+
+Questão 6
+CORRETA
+
+Para que usamos o método slice()?
+
+Sua resposta
+Usamos o método slice() para extrair uma parte de uma string, array ou outra estrutura de dados sem modificar a
+original;
+
+Explicação:
+Parabéns! Você acertou. O método slice() é utilizado para extrair uma parte de uma string, array ou outros tipos de objetos e retorna essa parte extraída como um novo objeto, mantendo o objeto original inalterado. Ele cria uma 'fatia' da estrutura de dados.
+
+Questão 7
+CORRETA
+
+Usamos o método split() para:
+Sua resposta
+Dividir uma string em uma lista de substrings;
+
+Explicação:
+Parabéns! Sua resposta está correta. O método split() é fundamental para manipular strings ao permitir quebrá-las em partes menores, geralmente com base em um delimitador especificado. Isso é útil para processar dados textuais, como analisar uma frase em palavras ou extrair informações de um formato específico.
+
+Questão 8
+CORRETA
+
+Quando queremos unir os elementos de um array em uma única string, utilizamos o método:
+
+Sua resposta
+join();
+
+Explicação:
+Parabéns! Você acertou. O método join() é o método correto utilizado em JavaScript e em outras linguagens para unir todos os elementos de um array em uma única string. Opcionalmente, pode-se passar um separador como argumento para ser inserido entre cada elemento.
+
+Questão 9
+CORRETA
+
+Usamos o método indexOf() para:
+
+Sua resposta
+Encontrar a posição da primeira ocorrência de um determinado valor em uma string ou array;
+
+Explicação:
+Parabéns! Você acertou. O método indexOf() é projetado para localizar a posição (índice) da primeira ocorrência de um elemento específico dentro de uma string ou array. Ele retorna -1 se o elemento não for encontrado.

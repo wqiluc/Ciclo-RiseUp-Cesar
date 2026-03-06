@@ -1,0 +1,112 @@
+10 de 10✅
+
+Questão 1
+CORRETA
+
+O que é um objeto?
+
+Sua resposta
+É uma estrutura que representa algo concreto ou não, com propriedades e comportamentos;
+
+Explicação:
+Parabéns, você acertou! Um objeto é de fato uma entidade que pode representar tanto conceitos tangíveis (como um carro ou uma pessoa) quanto intangíveis (como uma data ou um pedido de compra), caracterizado por seus atributos (propriedades) e ações que pode realizar (comportamentos ou métodos).
+
+
+Questão 2
+CORRETA
+
+Na programação as propriedades são os valores, como um texto ou número e os métodos são funções associadas a um objeto. Essa afirmação é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns pela resposta! O conceito de objetos na programação envolve a combinação de dados e as funções que operam sobre esses dados. As propriedades são de fato os dados ou características de um objeto, como textos, números, booleanos, ou até outros objetos, descrevendo seu estado. Já os métodos são as funções associadas a um objeto, representando suas ações ou comportamentos. Eles definem o que o objeto pode fazer ou como ele interage com outros elementos.
+
+Questão 3
+CORRETA
+
+É um exemplo correto da sintaxe da declaração de um objeto vazio:
+
+Sua resposta
+const obj = {}
+
+Explicação:
+Parabéns! Você está correto. Em JavaScript, a forma padrão e mais comum de criar um objeto vazio é utilizando a sintaxe de objeto literal com chaves, ou seja, {}. Esta expressão cria um novo objeto que não possui propriedades próprias.
+
+Questão 4
+CORRETA
+
+O que é um objeto aninhado em Javascript?
+
+Sua resposta
+Em Javascript um objeto aninhado é um objeto que está contido dentro de um outro objeto;
+
+Explicação:
+Parabéns! Você acertou. Um objeto aninhado (nested object) em JavaScript é exatamente o que o nome sugere: um objeto que é uma propriedade ou valor dentro de outro objeto. Essa estrutura permite organizar dados de forma hierárquica e representar relações complexas entre diferentes informações.
+
+Questão 5
+CORRETA
+
+Como eu consigo acessar uma informação de um objeto user usando a notação de ponto?
+
+Sua resposta
+Acessando o nome do objeto + ponto(.) + a propriedade que eu quero acessar: console.log(user.name), por exemplo;
+
+Explicação:
+Parabéns! Sua resposta está correta. A notação de ponto é o método mais comum e legível para acessar propriedades de um objeto quando o nome da propriedade é conhecido e é um identificador válido. A sintaxe objeto.propriedade permite referenciar diretamente o valor associado a essa chave dentro do objeto especificado.
+
+Questão 6
+CORRETA
+
+Como eu executo uma função que é uma propriedade dentro do objeto user, por exemplo?
+
+Sua resposta
+user.nomeFuncao();
+
+Explicação:
+Parabéns! Você identificou a forma correta. Para executar uma função que está definida como uma propriedade dentro de um objeto, utiliza-se a notação de ponto para acessar a propriedade (ex: objeto.nomePropriedade) e, em seguida, adicionam-se parênteses () para invocar a função (ex: objeto.nomePropriedade()).
+
+Questão 7
+CORRETA
+
+Qual a finalidade de usarmos a palavrinha reservada this para acessar uma propriedade no contexto do objeto?
+
+Sua resposta
+Ela é usada para se referir ao objeto atual no qual um método está sendo chamado;
+
+Explicação:
+Parabéns! Sua resposta está correta. A palavra-chave this é fundamental em JavaScript para se referir ao contexto de execução atual. Quando usada dentro de um método de um objeto, ela aponta para o próprio objeto, permitindo acesso às suas propriedades e outros métodos.
+
+Questão 8
+CORRETA
+
+É um exemplo correto da sintaxe de um encapsulamento opcional (Optional chaining):
+
+Sua resposta
+console.log(user?.name)
+
+Explicação:
+Parabéns! Você identificou a sintaxe correta para optional chaining. O operador ?. permite acessar propriedades de um objeto que pode ser nulo ou indefinido sem gerar um erro. Se user for nulo ou indefinido, a expressão retornará undefined em vez de causar um erro de tipo.
+
+Questão 9
+CORRETA
+
+O que o Operador de Coalescência Nula (??) faz em Javascript?
+
+Sua resposta
+Ele retorna o primeiro valor se esse valor não for nulo ou indefinido, caso contrário, retorna o segundo.
+
+Explicação:
+Parabéns! Você acertou. O operador de coalescência nula (??) é projetado especificamente para este propósito. Ele verifica apenas null ou undefined como valores 'falsy', diferentemente do operador lógico OR (||), que considera também 0, '' (string vazia), e false como 'falsy'. Assim, se o operando da esquerda não for null nem undefined, ele será retornado; caso contrário, o operando da direita será o valor resultante.
+
+Questão 10
+CORRETA
+
+O que é uma instância?
+
+Sua resposta
+Uma instância é uma cópia de um objeto criado por uma função construtora em Javascript;
+
+Explicação:
+Parabéns por identificar a definição correta! No contexto da programação orientada a objetos, especialmente em JavaScript com funções construtoras ou classes, uma instância é um objeto concreto criado a partir de um "molde" ou "planta", que é o construtor. Cada instância possui suas próprias propriedades e métodos, mas segue a estrutura definida pelo seu construtor.
