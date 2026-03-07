@@ -1,0 +1,115 @@
+10 de 10✅
+
+Questão 1
+CORRETA
+
+O que é um array?
+
+Sua resposta
+Em resumo é uma coleção ordenada de valores;
+
+Explicação:
+Parabéns! Você acertou. Um array é fundamentalmente uma estrutura de dados que armazena uma coleção de elementos. A ordem é crucial, pois cada elemento possui um índice numérico que define sua posição e permite o acesso direto.
+
+Questão 2
+CORRETA
+
+Em Javascript, qual é o índice da primeira posição em um array?
+
+Sua resposta
+O índice da primeira posição é sempre 0;
+
+Explicação:
+Parabéns! Sua resposta está correta. Em JavaScript, assim como em muitas outras linguagens de programação (como C, C++, Java e Python), os arrays são estruturas de dados baseadas em zero. Isso significa que o primeiro elemento de um array está localizado no índice 0, o segundo no índice 1, e assim por diante. Essa convenção é fundamental para acessar e manipular os elementos de um array corretamente.
+
+Questão 3
+CORRETA
+
+É um exemplo correto de sintaxe para criar um array de 10 posições usando um construtor em Javascript:
+
+Sua resposta
+const meuArray = new Array(10);
+
+Explicação:
+Parabéns! Você acertou a sintaxe correta. Em JavaScript, para criar um array de um tamanho específico usando o construtor Array, você utiliza a palavra-chave new seguida de Array() e passa o tamanho desejado entre parênteses como argumento. Assim, new Array(10) cria um novo array com 10 posições vazias (slots), e const meuArray = o atribui a uma variável de nome meuArray, tornando-o acessível para uso posterior.
+
+Questão 4
+CORRETA
+
+Dado um array de usuários, users, como eu descubro o tamanho desse array?
+
+Sua resposta
+console.log(users.length)
+
+Explicação:
+Parabéns! Você identificou a propriedade correta. Em JavaScript, a propriedade .length é utilizada para retornar o número de elementos (o tamanho) de um array. Essa é a maneira padrão e mais comum de se fazer isso.
+
+Questão 5
+CORRETA
+
+Dado o array: let animals = [”Owl”, “Cat”, “Dog”]. Qual índice devemos acessar para que o animal "Owl" seja impresso na tela?
+
+Sua resposta
+console.log(animals[0]);
+
+Explicação:
+Parabéns! Você acertou. Em JavaScript, assim como em muitas outras linguagens de programação, os arrays são baseados em índice zero, o que significa que o primeiro elemento de um array está na posição 0, o segundo na posição 1, e assim por diante. Para acessar o primeiro elemento "Owl", você deve usar o índice 0.
+
+Questão 6
+CORRETA
+
+Dado o array: let fruits = [”Orange”, “Banana”, “Mango”]. Qual das alternativas abaixo é um exemplo correto de como podemos acessar o último item do array de forma dinâmica?
+
+Sua resposta
+console.log(fruits[fruits.length - 1])
+
+Explicação:
+Parabéns! Você acertou. Para acessar o último item de um array de forma dinâmica em JavaScript, utilizamos a propriedade length para obter o tamanho total do array e subtraímos 1. Isso ocorre porque os índices dos arrays são baseados em zero (começam em 0). Portanto, se um array tem N elementos, seus índices vão de 0 a N-1. Assim, fruits.length - 1 nos fornece o índice do último elemento, garantindo o acesso correto independentemente do tamanho do array.
+
+Questão 7
+CORRETA
+
+Usamos o método push() para:
+
+Sua resposta
+Adicionar um ou mais elementos ao final de um array;
+
+Explicação:
+Parabéns! Você acertou. O método push() é fundamental para arrays em JavaScript, permitindo adicionar um ou mais elementos novos à estrutura existente do array, sempre ao final da sequência. Ele retorna o novo comprimento do array após a adição dos elementos.
+
+Questão 8
+CORRETA
+
+Para alterar o conteúdo de um array, adicionando novos elementos e removendo elementos antigos, usamos o método:
+
+Sua resposta
+splice()
+
+Explicação:
+Parabéns! Você acertou. O método splice() do JavaScript é exatamente para isso. Ele pode ser usado para adicionar novos elementos, remover elementos existentes e substituir elementos em um array, modificando o array original diretamente. Seus parâmetros controlam a posição de início, o número de elementos a serem removidos e os elementos a serem adicionados.
+
+Questão 9
+CORRETA
+
+O método shift() remove o último elemento do array enquanto o pop()
+remove o primeiro. Essa afirmação é:
+
+Sua resposta
+Falsa
+
+Explicação:
+Parabéns pela sua resposta! Você acertou. A afirmação é falsa porque o método shift() realmente remove o primeiro elemento de um array, modificando o array original e retornando o elemento removido. Já o método pop() remove o último elemento de um array, também modificando o array e retornando o elemento removido. As funcionalidades descritas na pergunta estavam invertidas.
+
+Questão 10
+CORRETA
+
+Dado o trecho de código abaixo, o que deverá ser retornado?
+
+const array = [1, 2, 3, 4, 5];
+array.splice(2, 1, 'x', 'y', 'z');
+
+Sua resposta
+[1, 2, “x”, “y”, “z”, 4, 5]
+
+Explicação:
+Parabéns! Você acertou. O método splice() altera o conteúdo de um array removendo elementos existentes e/ou adicionando novos elementos. Os parâmetros são: o índice de início (2, que é o número 3 no array), o número de elementos a serem removidos (1, que remove o 3) e os elementos a serem adicionados a partir do índice de início ('x', 'y', 'z'). Assim, o array inicial [1, 2, 3, 4, 5] se torna [1, 2, 'x', 'y', 'z', 4, 5].

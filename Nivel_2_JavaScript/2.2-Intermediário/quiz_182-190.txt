@@ -1,0 +1,91 @@
+8 de 8✅
+
+Questão 1
+CORRETA
+
+Qual é a função de uma estrutura de repetição?
+
+Sua resposta
+Ela permite executar um bloco de código várias vezes enquanto uma condição específica for verdadeira;
+
+Explicação:
+Parabéns! Sua escolha está correta. A principal função de uma estrutura de repetição, também conhecida como laço de repetição ou loop, é exatamente essa: permitir que um bloco de código seja executado repetidamente enquanto uma condição lógica especificada permanecer verdadeira. Assim que essa condição se torna falsa, a repetição é encerrada, e o programa continua a execução das instruções seguintes ao laço.
+
+Questão 2
+CORRETA
+
+É um exemplo correto da sintaxe de um while:
+
+Sua resposta
+while (condição) {
+    // Código que vai ser executado se a condição for verdadeira.
+}
+
+Explicação:
+Parabéns, você acertou! Esta é a sintaxe padrão e correta para um laço while na maioria das linguagens de programação, como C, C++, Java, JavaScript, C#, entre outras. A condição é colocada entre parênteses () e o bloco de código a ser executado repetidamente é delimitado por chaves {}.
+
+Questão 3
+CORRETA
+
+O que acontece se a condição de um while nunca for falsa?
+
+Sua resposta
+O bloco de código continuará sendo executado por tempo indeterminado, resultando em um loop infinito;
+
+Explicação:
+Parabéns por sua resposta! Você acertou. Se a condição de um laço while nunca se torna falsa, o laço continuará a executar seu bloco de código repetidamente, indefinidamente. Isso é conhecido como um "loop infinito" e geralmente requer intervenção manual para encerrar o programa, pois ele consumirá recursos do sistema sem parar.
+
+Questão 4
+CORRETA
+
+Sobre o loop infinito podemos dizer que:
+
+Sua resposta
+Um loop infinito é um bloco de código que se repete continuamente, sem nunca parar;
+
+Explicação:
+Parabéns, você acertou! Esta opção descreve com precisão a natureza de um loop infinito. É uma construção de programação onde o bloco de código dentro do loop se executa repetidamente, sem que a condição de término seja satisfeita, levando a uma execução ininterrupta. Isso geralmente consome recursos do sistema e pode travar a aplicação.
+
+Questão 5
+CORRETA
+
+A principal diferença entre while e do while é que no while, a condição é verificada antes da execução do bloco de código já no do while, o bloco de código é executado pelo menos uma vez antes de verificar a condição. Essa afirmação é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns, você acertou! A afirmação descreve corretamente a diferença fundamental entre as estruturas de repetição while e do-while. No loop while, a condição é avaliada antes de cada iteração, o que significa que o bloco de código pode nunca ser executado se a condição for falsa desde o início. Por outro lado, no loop do-while, o bloco de código é executado primeiro e, só depois, a condição é verificada, garantindo que o código dentro do loop seja executado pelo menos uma vez.
+
+Questão 6
+CORRETA
+
+Qual linha de código abaixo é um exemplo correto de uma sintaxe básica de um laço for?
+
+Sua resposta
+for (i = 0; i < 10; i++) {}
+
+Explicação:
+Parabéns pela escolha! Esta é de fato a sintaxe correta para um laço for em muitas linguagens de programação. Ele é composto por três partes essenciais dentro dos parênteses, separadas por ponto e vírgula: a inicialização da variável de controle (i = 0), a condição de parada (i < 10) e a expressão de incremento ou decremento (i++).
+
+Questão 7
+CORRETA
+
+Usamos a palavra reservada break quando queremos:
+
+Sua resposta
+Encerrar a execução da repetição e seguir para a instrução seguinte;
+
+Explicação:
+Parabéns! Você acertou. A palavra-chave break é usada especificamente para sair de um loop (como for, while, do-while) imediatamente, transferindo o controle do programa para a instrução que vem logo após o término desse loop. É uma forma de interromper o ciclo de repetição antes que ele complete todas as suas iterações planejadas ou condições.
+
+Questão 8
+CORRETA
+
+Qual a principal diferença entre usar o break e o continue?
+
+Sua resposta
+O break interrompe o loop, enquanto o continue pula para a próxima iteração;
+
+Explicação:
+Parabéns, você acertou! A principal diferença entre as palavras-chave break e continue em linguagens de programação reside em como elas afetam o fluxo de controle de um laço de repetição. O break é utilizado para sair completamente do laço em que está inserido, finalizando sua execução imediatamente e continuando o código a partir da próxima instrução após o laço. Já o continue, por outro lado, interrompe apenas a iteração atual do laço, pulando o restante do código dentro dessa iteração e prosseguindo para o início da próxima iteração do mesmo laço.
