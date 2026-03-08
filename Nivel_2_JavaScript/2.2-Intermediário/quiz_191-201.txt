@@ -1,0 +1,91 @@
+8 de 8 ✅
+
+Questão 1
+CORRETA
+
+Qual das opções abaixo é a forma correta de exibir a hora e a data atual usando Javascript?
+
+Sua resposta
+console.log(new Date())
+
+Explicação:
+Parabéns! Você identificou a instrução correta. Em JavaScript, a forma padrão para criar uma nova instância de objeto Date, que representa a data e a hora atuais, é utilizando o construtor new Date(). Ao passar este objeto para console.log(), o console exibirá uma representação legível da data e hora atuais.
+
+Questão 2
+CORRETA
+
+Qual método usamos quando queremos retornar apenas o dia da semana?
+
+Sua resposta
+Usamos o método getDay(), onde domingo é representado pelo número 0 e sábado pelo número 6;
+
+Explicação:
+Parabéns! Você acertou. O método getDay() é o método correto para retornar o dia da semana em JavaScript. Ele retorna um numeral inteiro representando o dia da semana, onde 0 significa domingo, 1 significa segunda-feira, e assim por diante, até 6 para sábado.
+
+Questão 3
+CORRETA
+
+Qual método usamos quando queremos retornar apenas o ano, com quatro dígitos, de uma data?
+
+Sua resposta
+Usamos o método getFullYear();
+
+Explicação:
+Parabéns! Você acertou. O método getFullYear() é o método correto e amplamente utilizado para obter o ano com quatro dígitos (ex: 2023) de um objeto de data. Ele retorna um valor numérico representando o ano completo, o que é ideal para a maioria das aplicações modernas.
+
+Questão 4
+CORRETA
+
+Qual método usamos quando queremos modificar apenas o dia de uma data?
+
+Sua resposta
+Usamos o método setDate().
+
+Explicação:
+Parabéns pela sua escolha! Você está correto. Em JavaScript, o método setDate() é usado para definir o dia do mês para um objeto Date existente. Ele recebe um número inteiro que representa o dia, de 1 a 31.
+
+
+Questão 5
+CORRETA
+
+Qual o resultado da expressão a seguir:
+"12".padStart(4, "0");
+
+Sua resposta
+“0012”
+
+Explicação:
+Parabéns! Você acertou. O método padStart() é utilizado para preencher uma string no início até que ela atinja um determinado comprimento. No exemplo "12".padStart(4, "0"), a string "12" (que tem 2 caracteres) será preenchida com o caractere "0" até atingir um comprimento total de 4 caracteres. Assim, são adicionados dois '0's no início, resultando em "0012".
+
+Questão 6
+CORRETA
+
+Qual método usamos para formatar uma hora no formato local hh:mm:ss?
+
+Sua resposta
+Usamos o método toLocaleTimeString();
+
+Explicação:
+Parabéns! Você acertou. O método toLocaleTimeString() é o método correto para formatar a parte da hora de um objeto Date em uma string, usando as convenções de formatação de hora da localidade atual. Ele permite personalizar a saída para incluir horas, minutos, segundos e fuso horário, se desejado, tornando-o ideal para o formato hh:mm:ss.
+
+Questão 7
+CORRETA
+
+Qual o significado da sigla UTC?
+
+Sua resposta
+“Tempo Universal Coordenado”.
+
+Explicação:
+Parabéns! Sua resposta está correta. A sigla UTC significa "Tempo Universal Coordenado" (do inglês, Coordinated Universal Time). Este é o padrão de tempo mundial pelo qual os fusos horários são regulados. É a base para a hora civil em todo o mundo, permitindo uma sincronização global precisa para muitas aplicações, desde comunicações até navegação e sistemas financeiros.
+
+Questão 8
+CORRETA
+
+O timestamp é um valor que representa um ponto específico no tempo, expresso como uma contagem de segundos ou milissegundos desde um momento de referência. Essa afirmação é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns! Sua resposta está correta. A definição apresentada descreve precisamente o conceito de timestamp. Um timestamp é, de fato, um valor numérico que registra um ponto específico no tempo, geralmente medido em segundos ou milissegundos decorridos desde uma data e hora de referência (conhecida como Época, comumente 1º de janeiro de 1970, 00:00:00 UTC). Esse formato é amplamente utilizado em sistemas computacionais para armazenar e comparar momentos de forma eficiente e independente de fusos horários.
