@@ -1,0 +1,67 @@
+6 de 6✅
+
+Questão 1
+CORRETA
+
+Usamos classes como uma forma de criar objetos e definir comportamentos por meio de construtores e métodos. Essa afirmativa é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns, você acertou! As classes são de fato a base da programação orientada a objetos, servindo como "modelos" ou "plantas" para a criação de objetos. Elas encapsulam dados (atributos) e funcionalidades (métodos) que os objetos terão, e os construtores são métodos especiais usados para inicializar esses objetos quando são criados, definindo seu estado inicial e comportamento.
+
+Questão 2
+CORRETA
+
+O que é um método?
+
+Sua resposta
+Os métodos são como funções, mas eles são específicos e associados a um único objeto;
+
+Explicação:
+Parabéns! Sua resposta está correta. Métodos são, de fato, funções que pertencem a um objeto específico. Eles definem as ações ou comportamentos que um objeto pode realizar, encapsulando a lógica de uma forma organizada e reutilizável dentro do contexto da programação orientada a objetos.
+
+Questão 3
+CORRETA
+
+A sintaxe correta da declaração de uma classe em Javascript é:
+
+Sua resposta
+class MyClass {}
+
+Explicação:
+Parabéns, você identificou a sintaxe correta! Em JavaScript, a declaração de classes é feita utilizando a palavra-chave class seguida pelo nome da classe (geralmente em PascalCase) e um bloco de chaves {} que contém seus métodos e construtores. Esta é a forma padrão e recomendada desde o ES6 (ECMAScript 2015).
+
+Questão 4
+CORRETA
+
+Qual é a palavra reservada usada para acessar métodos e propriedades dentro da própria classe?
+
+Sua resposta
+this
+
+Explicação:
+Parabéns! Você acertou. Em muitas linguagens de programação orientadas a objetos, a palavra-chave this (ou equivalente) é utilizada para referenciar a instância atual da classe. Isso permite que métodos e propriedades de um objeto acessem outros membros do mesmo objeto.
+
+Questão 5
+CORRETA
+
+A sintaxe correta da declaração de um método dentro de uma classe é:
+
+Sua resposta
+sendMessage() {}
+
+Explicação:
+Parabéns, você acertou! Esta é a sintaxe correta para declarar um método chamado sendMessage dentro de uma classe em JavaScript (ES6+). Os parênteses () indicam que é uma função, e as chaves {} contêm o corpo do método.
+
+Questão 6
+CORRETA
+
+É um exemplo correto de sintaxe da declaração de uma classe com herança:
+
+Sua resposta
+class Cat extends Animal {} onde a classe Cat herda as características da classe Animal;
+
+Explicação:
+Parabéns por sua escolha! Você está correto. Na programação orientada a objetos, a palavra-chave extends é fundamental para estabelecer uma relação de herança. Ela indica que a classe à esquerda (denominada subclasse ou classe filha) irá herdar atributos e métodos da classe à direita (denominada superclasse ou classe pai).
