@@ -33,5 +33,4 @@ function soma(a,a,c){
 
 //////////////////////////////////////
 
-// O strict mode (modo estrito): ativando esse modo, os erros que eram silenciosos passa a gerar exceções no Javascript.
-
+// destructuring assignment (desestruturação) permite extrair dados de arrays ou objetos em variáveis distintas.
