@@ -1,0 +1,174 @@
+15 de 15✅
+
+Questão 1
+CORRETA
+
+Usando a analogia de um objeto Carro, podemos dizer que a cor está representando uma propriedade(característica) e a função de acelerar representando um método(comportamento). Essa afirmação é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns! Sua compreensão sobre os conceitos fundamentais de Programação Orientada a Objetos (POO) está correta. Em POO, um objeto é uma instância de uma classe, e possui características (propriedades) e comportamentos (métodos). No exemplo do Carro, a cor é uma característica, ou seja, uma propriedade que descreve o carro. A ação de acelerar é um comportamento que o carro pode realizar, e é implementado através de um método. Essa analogia ilustra de forma clara como esses conceitos são aplicados na prática.
+
+Questão 2
+CORRETA
+
+É um exemplo correto da sintaxe de um objeto com apenas duas propriedades:
+
+Sua resposta
+const obj = {
+   name: "Rodrigo",
+   age: 21
+}
+
+Explicação:
+Parabéns! Sua resposta está correta. Em JavaScript, um objeto é definido por chaves {} e suas propriedades são pares de chave-valor separados por dois pontos :, e cada par é separado por vírgulas ,. Este é um exemplo perfeito e sintaticamente correto de um objeto com duas propriedades.
+
+Questão 3
+CORRETA
+
+Abaixo temos um exemplo de Operador de coalescência. Qual o retorno?
+
+let content = null
+console.log(content ?? "Teste")
+
+Sua resposta
+A palavra Teste porque content é nulo;
+
+Explicação:
+Parabéns, você acertou! O operador de coalescência nula (??) retorna o operando do lado direito quando o operando do lado esquerdo é null ou undefined. Neste caso, como content é null, o valor "Teste" é retornado.
+
+Questão 4
+CORRETA
+
+Usando de exemplo a frase: Estudo na Rocketseat Qual retorno teríamos se aplicássemos um slice(8, 20) nessa mensagem?
+
+Sua resposta
+a Rocketseat
+
+Explicação:
+Parabéns! Você acertou. Ao aplicar slice(8, 20) na string "Estudo na Rocketseat", o método começa a extrair caracteres a partir do índice 8 (que é 'a') e vai até o índice 19 (o último caractere de 'Rocketseat'), resultando em 'a Rocketseat'. É fundamental lembrar que o segundo parâmetro do slice() é exclusivo, ou seja, o caractere no índice final não é incluído no resultado.
+
+Questão 5
+CORRETA
+
+Como eu posso conferir se a palavra Rocketseat está presente na mensagem: “Eu estudo na Rocketseat” com o Javascript?
+
+Sua resposta
+console.log(message.includes(”Rocketseat”))
+
+Explicação:
+Parabéns! Você está correto. O método includes() é o mais adequado para verificar se uma string contém outra, retornando true ou false de forma clara e legível. É um método que faz parte do padrão ECMAScript desde 2015 (ES6) e é amplamente utilizado por sua simplicidade.
+
+Questão 6
+CORRETA
+
+Em JavaScript, usamos [ ] para declarar um array e {} para declarar um objeto. Essa afirmação é:
+
+Sua resposta
+Verdadeira
+
+Explicação:
+Parabéns! Sua resposta está correta. Em JavaScript, a sintaxe [ ] é empregada para a criação de arrays literais, que são coleções ordenadas de valores. Já a sintaxe { } é utilizada para declarar objetos literais, que armazenam coleções de pares chave-valor. Esta é uma parte fundamental da sintaxe da linguagem.
+
+Questão 7
+CORRETA
+
+Sobre os métodos push() e pop() é correto afirmar:
+
+Sua resposta
+O método push() adiciona um item ao final do array enquanto o método pop() remove um item do final do array;
+
+Explicação:
+Parabéns, você acertou! O método push() realmente é utilizado para adicionar um ou mais elementos ao final de um array, modificando o array original e retornando o novo comprimento do array. Já o método pop() remove o último elemento de um array e retorna esse elemento, também modificando o array original. Esses métodos são fundamentais para a manipulação de estruturas de dados do tipo pilha (stack) em JavaScript, onde a inserção e remoção ocorrem sempre em uma das extremidades.
+
+Questão 8
+CORRETA
+
+Dado o array: let colors = ["Vermelho", "Verde", "Azul"]; Qual índice eu devo acessar para imprimir que a cor Azul na tela?
+
+Sua resposta
+console.log(colors[2]);
+
+Explicação:
+Parabéns, você acertou! Em JavaScript, os arrays utilizam indexação baseada em zero, o que significa que o primeiro elemento está no índice 0, o segundo no índice 1, e assim por diante. Para o array colors = ["Vermelho", "Verde", "Azul"], o elemento "Azul" é o terceiro item e, portanto, está no índice 2. Acessar colors[2] retornará corretamente "Azul".
+
+Questão 9
+CORRETA
+
+O que acontece se a condição do loop while for sempre falsa?
+
+Sua resposta
+O loop não será executado;
+
+Explicação:
+Parabéns pela sua resposta! Esta opção está correta. No caso de um loop while, a verificação da condição ocorre antes de qualquer execução do bloco de código. Se a condição for avaliada como falsa desde o início, o corpo do loop nunca será executado. Isso é fundamental para controlar o fluxo de repetição em seus programas.
+
+Questão 10
+CORRETA
+
+Qual das alternativas abaixo é uma estrutura correta de um laço for que imprime na tela os números de 0 a 10?
+
+Sua resposta
+for (let i = 0; i <= 10; i++) { 
+   console.log(i)
+}
+
+Explicação:
+Parabéns! Você acertou a alternativa. Esta estrutura de laço for está correta para imprimir os números de 0 a 10. Ele inicializa i em 0, continua enquanto i for menor ou igual a 10 (incluindo o 10), e incrementa i a cada iteração, garantindo que todos os números no intervalo de 0 a 10 sejam exibidos no console.
+
+Questão 11
+CORRETA
+
+Qual método usamos para formatar uma data no formato local dd/mm/aaaa?
+
+Sua resposta
+Usamos o método toLocaleDateString();
+
+Explicação:
+Parabéns! Você acertou. O método toLocaleDateString() é o método correto em JavaScript para formatar a porção da data de um objeto Date de forma que ela seja exibida de acordo com as convenções de data do local do usuário. Por exemplo, para o português do Brasil, ele normalmente retorna o formato dd/mm/aaaa.
+
+Questão 12
+CORRETA
+
+Qual método usamos quando queremos modificar apenas o mês de uma data?
+
+Sua resposta
+Usamos o método setMonth(), lembrando que janeiro é representado pelo número 0;
+
+Explicação:
+Parabéns! Você acertou. O método correto para modificar o mês de um objeto Date em JavaScript é o setMonth(). É importante lembrar que em JavaScript, os meses são indexados a partir de 0, onde 0 representa janeiro e 11 representa dezembro.
+
+Questão 13
+CORRETA
+
+Qual palavra reservada usamos quando queremos que uma classe herde as propriedades de uma outra classe?
+
+Sua resposta
+extends
+
+Explicação:
+Parabéns pela sua resposta! Em JavaScript, a palavra-chave extends é a sintaxe correta para criar uma classe que herda de outra classe. Isso permite que a classe filha acesse e utilize métodos e propriedades da classe pai, promovendo a reutilização de código e a organização.
+
+Questão 14
+CORRETA
+
+O que é um método construtor?
+
+Sua resposta
+É um método especial que é executado automaticamente sempre que a classe for instanciada;
+
+Explicação:
+Parabéns! Você acertou. Um método construtor é, de fato, um método especial que é invocado automaticamente sempre que uma nova instância de uma classe é criada. Sua principal função é inicializar o estado do objeto recém-criado, configurando seus atributos iniciais.
+
+Questão 15
+CORRETA
+
+O que é uma herança entre classes em Javascript?
+
+Sua resposta
+É quando uma classe herda propriedades e métodos de outra classe na sua declaração;
+
+Explicação:
+Parabéns! Você acertou. No Javascript, a herança entre classes refere-se à capacidade de uma classe (subclasse) adquirir as propriedades e métodos de outra classe (superclasse). Isso promove a reutilização de código e a organização de hierarquias de tipos.
