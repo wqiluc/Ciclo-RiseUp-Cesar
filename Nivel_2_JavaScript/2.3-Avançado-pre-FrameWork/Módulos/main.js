@@ -1,27 +1,22 @@
-// Exemplo importado funções específicas:
-
-import { soma, subtrai } from "./calculadora.js";
+import { soma, subtrai, multiplica } from "./calculadora.js";
 
 soma(10, 5);
 subtrai(10, 5);
+multiplica(10, 5);
 
-// Exemplo importando o módulo TODO:
-
-import * as calculadora from "./calculadora.js"
+import * as calculadora from "./calculadora.js";
 
 calculadora.soma(10, 5);
 calculadora.subtrai(10, 5);
 calculadora.multiplica(10, 5);
 calculadora.divide(10, 5);
+calculadora.multiplica(30, 2);
 
-// A exportação padrão ocorre no arquivo: "calculadora.js", deixando algo como:
+import Calculadora from "./calculadora.js";
 
-/* 
+const calc = new Calculadora();
 
-export{
-
-    
-
-}
-
-*/
+calc.soma(10, 5);
+calc.subtrai(10, 5);
+calc.multiplica(10, 5);
+calc.divide(10, 5);

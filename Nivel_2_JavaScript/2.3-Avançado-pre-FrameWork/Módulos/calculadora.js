@@ -1,28 +1,41 @@
-export function soma(a, b) {
-    const resultado = a + b;
-    console.log(`A soma entre ${a} e ${b} é = ${resultado}`);
-    return resultado;
+function soma(a, b) {
+    console.log(`A soma entre ${a} e ${b} é = ${a + b}`);
 }
 
-export function subtrai(a, b) {
-    const resultado = a - b;
-    console.log(`A subtração entre ${a} e ${b} é = ${resultado}`);
-    return resultado;
+function subtrai(a, b) {
+    console.log(`A subtração entre ${a} e ${b} é = ${a - b}`);
 }
 
-export function multiplica(a, b) {
-    const resultado = a * b;
-    console.log(`A multiplicação entre ${a} e ${b} é = ${resultado}`);
-    return resultado;
+function multiplica(a, b) {
+    console.log(`A multiplicação entre ${a} e ${b} é = ${a * b}`);
 }
 
-export function divide(a, b) {
-    if (b === 0) {
-        console.log("Não é possível dividir por zero");
-        return null;
+function divide(a, b) {
+    console.log(`A divisão entre ${a} e ${b} é = ${a / b}`);
+}
+
+export { soma, subtrai, multiplica, divide };
+
+// Exemplo com Classes:
+
+class Calculadora {
+
+    soma(a, b) {
+        console.log(`Soma: ${a + b}`);
     }
 
-    const resultado = a / b;
-    console.log(`A divisão entre ${a} e ${b} é = ${resultado}`);
-    return resultado;
+    subtrai(a, b) {
+        console.log(`Subtração: ${a - b}`);
+    }
+
+    multiplica(a, b) {
+        console.log(`Multiplicação: ${a * b}`);
+    }
+
+    divide(a, b) {
+        console.log(`Divisão: ${a / b}`);
+    }
+
 }
+
+export default Calculadora;
