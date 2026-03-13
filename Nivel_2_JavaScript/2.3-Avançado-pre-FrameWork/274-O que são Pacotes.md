@@ -46,8 +46,10 @@ Inicialização de um projeto:
 npm init -y
 Esse comando cria o arquivo:
 package.json
-<h2 align="center">📄 package.json</h2> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oQHhQ0siJmq9hw3rrodpBQ.png" width="430">
+<h2 align="center">📄 package.json <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*oQHhQ0siJmq9hw3rrodpBQ.png" width="430"></h2>
 O package.json descreve as informações do projeto e suas dependências.
+```
+
 Exemplo:
 {
   "name": "meu-projeto",
