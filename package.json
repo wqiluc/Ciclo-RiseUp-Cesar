@@ -2,7 +2,10 @@
   "name": "ciclo-riseup-cesar",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "server": "json-server server.json --port 3333"
+  },
   "dependencies": {
-    "express": "^4.18.2"
+    "json-server": "^1.0.0-beta.13"
   }
 }

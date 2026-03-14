@@ -1,0 +1,102 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Mouse",
+      "preco": 80
+    },
+    {
+      "id": "2",
+      "nome": "Teclado",
+      "preco": 150
+    },
+    {
+      "id": "3",
+      "nome": "Monitor",
+      "preco": 900
+    },
+    {
+      "id": "4",
+      "nome": "Headset",
+      "preco": 250
+    },
+    {
+      "id": "5",
+      "nome": "Webcam",
+      "preco": 200
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Lucas",
+      "email": "lucas@email.com"
+    },
+    {
+      "id": "2",
+      "nome": "Ana",
+      "email": "ana@email.com"
+    },
+    {
+      "id": "3",
+      "nome": "Carlos",
+      "email": "carlos@email.com"
+    },
+    {
+      "id": "4",
+      "nome": "Mariana",
+      "email": "mariana@email.com"
+    },
+    {
+      "id": "5",
+      "nome": "Pedro",
+      "email": "pedro@email.com"
+    },
+    {
+      "id": "4e29",
+      "nome": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "0f79",
+      "nome": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "3eb7",
+      "nome": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "80c7",
+      "nome": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "ba2b",
+      "nome": "lucas",
+      "email": "lpp@cesar.school"
+    },
+    {
+      "id": "2977",
+      "nome": "pedro",
+      "email": "psp@cesar.school"
+    },
+    {
+      "id": "8159",
+      "nome": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "c680",
+      "nome": "João",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "eec4",
+      "nome": "João",
+      "email": "joao@email.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
