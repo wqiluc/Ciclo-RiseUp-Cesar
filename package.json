@@ -3,9 +3,19 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "server": "json-server server.json --port 3333"
+    "server": "json-server server.json --port 3333",
+    "build": "webpack --config webpack.config.js"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.13"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.0",
+    "@babel/preset-react": "^7.28.5",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.0"
   }
 }
