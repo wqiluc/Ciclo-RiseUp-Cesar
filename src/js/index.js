@@ -1,6 +1,5 @@
-import { titulo } from "./componentes.js";
+const mensagem = () => {
+  console.log("Babel está compilando JS moderno");
+};
 
-
-const saudacao = "Hello World";
-
-titulo(`${saudacao.toWellFormed()}`);
+mensagem();
