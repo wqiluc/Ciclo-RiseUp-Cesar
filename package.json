@@ -11,14 +11,18 @@
     "dev": "NODE_OPTIONS=--openssl-legacy-provider webpack serve --mode development",
     "start": "webpack serve --open"
   },
+
   "dependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "dayjs": "^1.11.20",
     "html-webpack-plugin": "^5.6.0",
     "json-server": "^1.0.0-alpha.21"
   },
+  
   "devDependencies": {
     "@babel/cli": "^7.28.6",
     "@babel/core": "^7.29.0",
-    "@babel/preset-env": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
     "@babel/preset-react": "^7.28.5",
     "babel-loader": "^9.2.1",
     "css-loader": "^7.1.4",
