@@ -17,6 +17,7 @@
 
 <body>
   <div class="container">
+
     <img src="./assets/logo.svg" alt="Logo" class="logo" />
 
     <form class="form">
@@ -40,6 +41,7 @@
       <span class="label">Horários</span>
 
       <ul id="hours" class="hours">
+
         <li data-period="morning" class="hour-period">Manhã</li>
         <li data-period="morning" value="09:00" class="hour hour-available">09:00</li>
         <li data-period="morning" value="10:00" class="hour hour-available">10:00</li>
@@ -58,6 +60,7 @@
         <li data-period="night" value="19:00" class="hour hour-available">19:00</li>
         <li data-period="night" value="20:00" class="hour hour-available">20:00</li>
         <li data-period="night" value="21:00" class="hour hour-unavailable">21:00</li>
+
       </ul>
 
       <label for="client" class="label">Cliente</label>
@@ -84,6 +87,9 @@
         <h1>Agendamentos</h1>
         <p>Visualize os agendamentos de acordo com o dia selecionado</p>
       </header>
+
+      <ul id="appointments" class="appointments"></ul>
+
     </aside>
 
   </div>
