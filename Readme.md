@@ -48,7 +48,7 @@ Recife, Pernambuco — Brazil🇧🇷<br><br>
 <pre>
 Ciclo_Riseup_Cesar/
 ├── img/
-│   └── RocketSeat Logo.jpeg
+│   └── RocketSeat Logo.jpeg<img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" width="18"/>
 ├── Nivel_1_HTML_CSS<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black" width="60"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>/
 ├── Nivel_2_JavaScript<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>/
 ├── Nivel_3_TypeScript<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black"/>/
