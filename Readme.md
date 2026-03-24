@@ -53,7 +53,7 @@ Ciclo_Riseup_Cesar/
 ├── Nivel_2_JavaScript<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>/
 ├── Nivel_3_TypeScript<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black"/>/
 ├── Readme.md<img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000" width="80"/>
-├── license (MIT)
+├── license (MIT)<img src="https://cdn-icons-png.flaticon.com/512/1161/1161388.png" width="18"/>
 └── .gitignore<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=orange"/>
 </pre>
 
