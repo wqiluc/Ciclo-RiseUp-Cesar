@@ -163,7 +163,7 @@ JavaScript moderno: imutabilidade, módulos, funções assíncronas, pacotes, AP
 Tipagem estática, interfaces, tipos avançados e principais vantagens do TypeScript.
 </p>
 
-<h2 align="center">Objetivo do Repositório: </h2>
+<h2 align="center">Objetivo do Repositório 🎯: </h2>
 <p align="center">
 Consolidar uma base sólida em desenvolvimento web moderno, do HTML e CSS ao JavaScript avançado e TypeScript, aplicando boas práticas e projetos práticos.
 </p>
